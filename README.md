@@ -96,9 +96,10 @@ Status    : Open to new opportunities
 
 | 📜 Certification | 🏢 Issuer | Status |
 |---|---|---|
-| ITIL 4 Foundation | AXELOS | ✅ Completed |
-| Microsoft Endpoint Administrator (MD-102) | Microsoft | 🔄 Pursuing |
-| CompTIA A+ | CompTIA | 🔄 Pursuing |
+| ITIL 4 Foundation | Simplilearn | ✅ Completed |
+| Python Programming | Google & LinkedIn Learning | ✅ Completed |
+| Generative AI: Prompt Engineering | LinkedIn Learning | ✅ Completed  |
+| macOS Tahoe Essential Training | LinkedIn Learning | ✅ Completed  |
 
 ---
 
