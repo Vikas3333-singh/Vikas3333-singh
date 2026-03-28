@@ -1,34 +1,25 @@
 <div align="center">
 
-<!-- Animated SVG Banner - 100% GitHub Compatible -->
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<!-- Clean SVG Banner - GitHub Sanitization Safe -->
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#161b22"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#58a6ff;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
     </linearGradient>
-    <style>
-      .title { font: bold 42px "Segoe UI", Arial, sans-serif; fill: #ffffff; }
-      .subtitle { font: 18px "Segoe UI", Arial, sans-serif; fill: #a0c4ff; }
-      .tag { font: 13px "Segoe UI", Arial, sans-serif; fill: #58a6ff; }
-      .fade-in { animation: fadeIn 1.5s ease-in forwards; }
-      .slide-up { animation: slideUp 1s ease-out forwards; }
-      @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
-      @keyframes slideUp { from { opacity:0; transform:translateY(20px); } to { opacity:1; transform:translateY(0); } }
-    </style>
   </defs>
-  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
-  <rect x="0" y="0" width="900" height="3" fill="url(#line)"/>
-  <rect x="0" y="197" width="900" height="3" fill="url(#line)"/>
-  <text x="450" y="80" text-anchor="middle" class="title fade-in">🖥️ Vikas Singh</text>
-  <text x="450" y="120" text-anchor="middle" class="subtitle slide-up">IT Support Engineer | L2 Remote Desktop &amp; Endpoint Support</text>
-  <text x="450" y="155" text-anchor="middle" class="tag fade-in">📍 Gurugram, India &nbsp;&nbsp;•&nbsp;&nbsp; 🎯 Open to New Opportunities &nbsp;&nbsp;•&nbsp;&nbsp; 💻 ITSM | SLA | Asset Management</text>
+  <rect width="900" height="180" fill="url(#grad1)" rx="10"/>
+  <rect x="0" y="0" width="900" height="3" fill="url(#grad2)"/>
+  <rect x="0" y="177" width="900" height="3" fill="url(#grad2)"/>
+  <text x="450" y="72" text-anchor="middle" font-size="40" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff">🖥️ Vikas Singh</text>
+  <text x="450" y="112" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#a0c4ff">IT Support Engineer | L2 Remote Desktop &amp; Endpoint Support</text>
+  <text x="450" y="148" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#58a6ff">📍 Gurugram, India  •  🎯 Open to Opportunities  •  💻 ITSM | SLA | Asset Management</text>
 </svg>
 
 <br/>
