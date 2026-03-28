@@ -55,17 +55,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas3333-singh&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikas3333-singh&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 My Repositories
+## 🚀 My Projects
 
-| Repo | Description |
-|---|---|
-| [vikas-singh.github.io](https://vikas3333-singh.github.io/vikas-singh.github.io/) | Personal portfolio & IT support showcase website |
+| Project | What it solves | Link |
+|---|---|---|
+| IT Asset Tracker | Track laptops/desktops, owners, and warranty in one place | [Repo](https://github.com/Vikas3333-singh/it-asset-tracker) |
+| SLA & Ticket Dashboard | Visual view of P1–P5 tickets and SLA breach risk | [Repo](https://github.com/Vikas3333-singh/sla-ticket-dashboard) |
+| Remote Support Toolkit | Scripts & tools to speed up L2 remote troubleshooting | [Repo](https://github.com/Vikas3333-singh/remote-support-toolkit) |
+| Personal Portfolio | IT support profile and projects showcase | [Live](https://vikas333-singh.github.io/vikas-singh.github.io/) · [Repo](https://github.com/Vikas3333-singh/vikas-singh.github.io) |
 
 ---
 
@@ -76,6 +78,4 @@
 
 ---
 
-<p align="center">
-  <i>"Keeping endpoints secure, users productive, and IT running smoothly."</i>
-</p>
+_"Keeping endpoints secure, users productive, and IT running smoothly."_
