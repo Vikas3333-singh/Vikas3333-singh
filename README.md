@@ -118,7 +118,7 @@ Status    : Open to new opportunities
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas3333-singh&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Vikas3333-singh&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas3333-singh&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
 
