@@ -1,46 +1,119 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=2600&pause=800&color=01696F&center=true&vCenter=true&multiline=true&width=1100&height=140&lines=Vikas+Singh;IT+Support+Engineer;Endpoint+Support+%7C+Remote+Desktop+Support;ITSM+%7C+SLA+Management+%7C+Asset+Lifecycle" alt="Vikas Singh Animated Header" />
-</p>
+<div align="center">
 
-<p align="center">
-  IT Support Engineer focused on Endpoint Support, Remote Troubleshooting, ITSM, SLA Management, and Asset Lifecycle Operations.
-</p>
+# Hi, I'm Vikas Singh 👋
+
+### IT Support Engineer | L2 Remote Desktop & Endpoint Support | Gurugram, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-singh-816657ab)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas3333singh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://vikas333-singh.github.io/vikas-singh.github.io/)
+![Profile Views](https://komarev.com/ghpvc/?username=Vikas3333-singh&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I work in IT support with hands-on experience in endpoint support, remote desktop troubleshooting, incident handling, SLA monitoring, and IT asset lifecycle management.
+```yaml
+Name     : Vikas Singh
+Role     : IT Support Engineer | L2 Remote Desktop & Endpoint Support
+Location : Gurugram, Haryana, India
+Expertise: L1/L2 Support | Endpoint Management | IT Asset Management
+ITSM     : Incident Management | SLA Tracking (P1-P5) | Service Requests
+Goal     : System Engineer - Endpoint Support
+Status   : Open to new opportunities
+```
 
-I am building practical GitHub projects that reflect real support operations, not random tutorial work.
+---
 
-## 🛠 Core Skills
+## 🛠️ Tech Stack & Tools
 
-- Endpoint Support
-- Remote Desktop Support
-- ITSM & Incident Management
-- SLA Monitoring
-- IT Asset Management
-- Hardware Troubleshooting
-- Documentation & User Support
+<div align="center">
 
-## 🚀 Featured Projects
+**Operating Systems & Platforms**
+
+![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+**ITSM & Remote Support Tools**
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white)
+![Remote Desktop](https://img.shields.io/badge/Remote_Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white)
+
+**Scripting & Development**
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+## 💼 What I Do
+
+| Area | Details |
+|---|---|
+| 🖥️ **Endpoint Support** | Windows 10/11 setup, imaging, configuration & troubleshooting |
+| 🌐 **Remote Desktop Support** | L2 remote session handling via RDP, AnyDesk, TeamViewer |
+| 📦 **IT Asset Management** | Full asset lifecycle — procurement, tagging, tracking & disposal |
+| 🎫 **ITSM & Ticketing** | Incident/SR logging, escalation & SLA tracking (P1–P5 priority) |
+| 🔐 **User Access & AD** | Onboarding, account creation, group policy & access management |
+| 🔧 **Hardware Support** | Laptop/desktop diagnostics, repair & warranty coordination |
+
+---
+
+## 🚀 My Projects
 
 | Project | What it solves | Link |
 |---|---|---|
-| IT Asset Tracker | Track laptops/desktops, owners, and warranty in one place | [Repo](https://github.com/Vikas3333-singh/it-asset-tracker) |
-| SLA & Ticket Dashboard | Visual view of P1–P5 tickets and SLA breach risk | [Repo](https://github.com/Vikas3333-singh/sla-ticket-dashboard) |
-| Remote Support Toolkit | Scripts & tools to speed up L2 remote troubleshooting | [Repo](https://github.com/Vikas3333-singh/remote-support-toolkit) |
-| Personal Portfolio | IT support profile and projects showcase | [Live](https://vikas333-singh.github.io/vikas-singh.github.io/) · [Repo](https://github.com/Vikas3333-singh/vikas-singh.github.io) |
+| 🖥️ **IT Asset Tracker** | Track laptops/desktops, owners, warranty & lifecycle in one place | [Repo](https://github.com/Vikas3333-singh/it-asset-tracker) |
+| 📊 **SLA & Ticket Dashboard** | Visual view of P1–P5 tickets, SLA breach risk & incident status | [Repo](https://github.com/Vikas3333-singh/sla-ticket-dashboard) |
+| 🔧 **Remote Support Toolkit** | Scripts & tools to speed up L2 remote troubleshooting workflows | [Repo](https://github.com/Vikas3333-singh/remote-support-toolkit) |
+| 🌐 **Personal Portfolio** | IT support profile, skills & project showcase website | [Live](https://vikas333-singh.github.io/vikas-singh.github.io/) · [Repo](https://github.com/Vikas3333-singh/vikas-singh.github.io) |
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikas3333-singh&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-## 📫 Contact
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas3333-singh&layout=compact&theme=tokyonight&hide_border=true" />
 
-- GitHub: [Vikas3333-singh](https://github.com/Vikas3333-singh)
-- LinkedIn: add-your-link
-- Email: add-your-email
+</div>
+
+---
+
+## 💫 Experience Highlights
+
+- ✅ **3+ years** in IT Support (L1/L2) with hands-on endpoint and remote desktop experience
+- ✅ Handled **500+ incidents** with strict SLA adherence across P1–P5 priority levels
+- ✅ Managed **IT asset lifecycle** — procurement, tagging, allocation, and disposal
+- ✅ Proficient in **ServiceNow, AnyDesk, RDP, Active Directory, Microsoft 365**
+- ✅ Strong knowledge of **Windows 10/11** imaging, configuration, and troubleshooting
+- ✅ Experience in **user onboarding**, account provisioning, and access management
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-singh-816657ab)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas3333singh@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Keeping endpoints secure, users productive, and IT running smoothly."*
+
+</div>
