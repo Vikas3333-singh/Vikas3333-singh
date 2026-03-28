@@ -114,20 +114,9 @@ Status    : Open to new opportunities
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Vikas3333-singh&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas3333-singh&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikas3333-singh&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikas3333-singh&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
