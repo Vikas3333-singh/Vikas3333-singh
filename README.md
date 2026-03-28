@@ -66,7 +66,6 @@
 | Repo | Description |
 |---|---|
 | [vikas-singh.github.io](https://vikas3333-singh.github.io/vikas-singh.github.io/) | Personal portfolio & IT support showcase website |
-| [om-hydraulic-works](https://github.com/Vikas3333-singh/om-hydraulic-works) | Business website project |
 
 ---
 
