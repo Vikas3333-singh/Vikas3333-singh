@@ -109,7 +109,7 @@ Status    : Open to new opportunities
 | 🔹 Project | 💡 What it solves | 🔗 Link |
 |---|---|---|
 | 🖥️ **IT Asset Tracker** | Track laptops/desktops, owners, warranty & lifecycle in one place | [Repo](https://github.com/Vikas3333-singh/it-asset-tracker) |
-| 🔧 **Remote Support Toolkit** | Scripts & tools to speed up L2 remote troubleshooting workflows | [Repo](https://github.com/Vikas3333-singh/remote-support-toolkit) |
+| 🔧 **Remote Support Toolkit** | Scripts & tools to speed up L2 remote troubleshooting workflows | [Repo](https://github.com/Vikas3333-singh/README.md.git) |
 | 🌐 **Personal Portfolio** | IT support profile, skills & project showcase website | [Live](https://vikas333-singh.github.io/vikas-singh.github.io/) · [Repo](https://github.com/Vikas3333-singh/vikas-singh.github.io) |
 
 ---
