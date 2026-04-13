@@ -100,6 +100,7 @@ Status    : Open to new opportunities
 | Python Programming | Google & LinkedIn Learning | ✅ Completed |
 | Generative AI: Prompt Engineering | LinkedIn Learning | ✅ Completed  |
 | macOS Tahoe Essential Training | LinkedIn Learning | ✅ Completed  |
+| Microsoft Copilot Essentials by Microsoft Press | LinkedIn Learning | ✅ Completed  |
 
 ---
 
