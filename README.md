@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vikas Singh 👋</h1>
 
-<h3 align="center">🖥️ IT Support Engineer | L2 Remote Desktop & Endpoint Support | Gurugram, India</h3>
+<h3 align="center">🖥️ Endpoint Management Engineer (Intune / SCCM / JAMF) | IT Systems Specialist | Gurugram, India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-singh-816657ab">
