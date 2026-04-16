@@ -21,7 +21,7 @@
 
 ```
 Name      : Vikas Singh
-Role      : IT Support Engineer | L2 Remote Desktop & Endpoint Support
+Role      : Endpoint Management Engineer (Intune / SCCM / JAMF) | IT Systems Specialist
 Location  : Gurugram, Haryana, India
 Experience: 8+ Years in IT Support (L1/L2/Endpoint)
 Expertise : Endpoint Management | Remote Desktop | IT Asset Management
