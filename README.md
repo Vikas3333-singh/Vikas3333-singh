@@ -9,7 +9,7 @@
   <a href="mailto:vikaskumarsingh333@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://https://vikas3333-singh.github.io/vikas-singh.github.io//">
+  <a href="https://vikas3333-singh.github.io/vikas-singh.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Vikas3333-singh&label=Profile+Views&color=58a6ff&style=for-the-badge" />
