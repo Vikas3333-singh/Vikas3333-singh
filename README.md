@@ -1,138 +1,98 @@
-<h1 align="center">Hi, I'm Vikas Singh 👋</h1>
+<h1 align="center">Vikas Singh</h1>
 
-<h3 align="center">🖥️ Endpoint Management Engineer (Intune / SCCM / JAMF) | IT Systems Specialist | Gurugram, India</h3>
+<h3 align="center">Endpoint Management Engineer · Intune / SCCM / JAMF · Gurugram, India</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikas-singh-816657ab">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vikaskumarsingh333@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://vikas3333-singh.github.io/vikas-singh.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Vikas3333-singh&label=Profile+Views&color=58a6ff&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/vikas-singh-816657ab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:vikaskumarsingh333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://vikas3333-singh.github.io/vikas-singh.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea043?style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
 ```
-Name      : Vikas Singh
-Role      : Endpoint Management Engineer (Intune / SCCM / JAMF) | IT Systems Specialist
-Location  : Gurugram, Haryana, India
-Experience: 8+ Years in IT Support (L1/L2/Endpoint)
-Expertise : Endpoint Management | Remote Desktop | IT Asset Management
-ITSM      : Incident Management | SLA Tracking (P1-P5) | Service Requests
-Goal      : System Engineer – Endpoint Support
-Status    : Open to new opportunities
+name     : Vikas Singh
+location : Gurugram, Haryana, India
+focus    : Endpoint Management | MDM | IT Asset Lifecycle
+itsm     : ServiceNow · SLA P1–P5 · Incident Management
+goal     : System Engineer – Endpoint Support
+status   : open to new opportunities
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-**Operating Systems & Platforms**
+**Endpoint & MDM**
+`Microsoft Intune` `SCCM` `JAMF Pro` `Windows Autopilot`
 
-![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+**OS & Platforms**
+`Windows 10/11` `macOS` `Active Directory` `Microsoft 365`
 
-**Endpoint Management & MDM**
+**ITSM & Remote Support**
+`ServiceNow` `RDP` `AnyDesk` `TeamViewer` `Jira`
 
-![SCCM](https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![JAMF](https://img.shields.io/badge/JAMF_Pro-000000?style=for-the-badge&logo=jamf&logoColor=white)
-![Windows Autopilot](https://img.shields.io/badge/Windows_Autopilot-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**ITSM & Remote Support Tools**
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white)
-![RDP](https://img.shields.io/badge/Remote_Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-**Scripting & Development**
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Scripting & Automation**
+`PowerShell` `Python` `HTML / CSS / JS`
 
 ---
 
-## 💼 What I Do
+## Experience
 
-| 🔹 Area | 📋 Details |
+**System Analyst** — Konverge Technologies *(deployed @ BCG client)*
+`Aug 2022 – Jan 2026`
+- Managed endpoint fleet via Intune, SCCM & JAMF across Windows and macOS environments
+- Handled patch compliance, Conditional Access policies & device enrollment at scale
+- L2 incident resolution with ServiceNow SLA adherence across P1–P5 priority levels
+- Automated routine IT admin tasks using PowerShell scripts
+
+**Technical Support Engineer** — Puthur Infotech
+`Mar 2018 – Aug 2022`
+- L1/L2 remote desktop support via RDP, AnyDesk & TeamViewer
+- User onboarding, Active Directory provisioning & access management
+- End-to-end IT asset lifecycle management — procurement, tagging, tracking & disposal
+
+**Technical Support** — Atlanta Systems
+`Jan 2016 – Mar 2018`
+- Hardware diagnostics, repair coordination & warranty handling
+- Windows imaging, configuration & first-line troubleshooting
+
+---
+
+## Certifications
+
+| Certification | Issuer |
 |---|---|
-| 🖥️ **Endpoint Support** | Windows 10/11 setup, imaging, configuration & troubleshooting |
-| 📱 **MDM & Device Management** | Device enrollment & policy management via Intune, SCCM & JAMF |
-| 🌐 **Remote Desktop Support** | L2 remote session handling via RDP, AnyDesk, TeamViewer |
-| 📦 **IT Asset Management** | Full asset lifecycle — procurement, tagging, tracking & disposal |
-| 🎫 **ITSM & Ticketing** | Incident/SR logging, escalation & SLA tracking (P1–P5 priority) |
-| 🔐 **User Access & AD** | Onboarding, account creation, group policy & access management |
-| 🔧 **Hardware Support** | Laptop/desktop diagnostics, repair & warranty coordination |
+| ITIL 4 Foundation | Simplilearn |
+| Generative AI: Prompt Engineering | LinkedIn Learning |
+| Python Programming | Google & LinkedIn Learning |
+| Microsoft Copilot Essentials | Microsoft Press |
+| macOS Tahoe Essential Training | LinkedIn Learning |
 
 ---
 
-## 💫 Experience Highlights
+## Projects
 
-- ✅ **8+ years** in IT Support (L1/L2) with hands-on endpoint and remote desktop experience
-- ✅ Handled **500+ incidents** with strict SLA adherence across P1–P5 priority levels
-- ✅ Managed **IT asset lifecycle** — procurement, tagging, allocation, and disposal
-- ✅ Deployed & managed devices using **SCCM, Intune & JAMF Pro**
-- ✅ Implemented **patch management** and enforced security compliance via Intune & SCCM
-- ✅ Proficient in **ServiceNow, AnyDesk, RDP, Active Directory, Microsoft 365**
-- ✅ Strong knowledge of **Windows 10/11** imaging, configuration, and troubleshooting
-- ✅ Experience in **user onboarding**, account provisioning, and access management
+**[IT Asset Tracker](https://github.com/Vikas3333-singh/it-asset-tracker)**
+Tracks laptops, desktops, owners, warranty status & full lifecycle in one place.
 
----
+**[PowerShell Automation Toolkit](https://github.com/Vikas3333-singh/README.md.git)**
+Scripts for L2 remote troubleshooting — user diagnostics, AD queries & endpoint health checks.
 
-## 🏆 Certifications
-
-| 📜 Certification | 🏢 Issuer | Status |
-|---|---|---|
-| ITIL 4 Foundation | Simplilearn | ✅ Completed |
-| Python Programming | Google & LinkedIn Learning | ✅ Completed |
-| Generative AI: Prompt Engineering | LinkedIn Learning | ✅ Completed  |
-| macOS Tahoe Essential Training | LinkedIn Learning | ✅ Completed  |
-| Microsoft Copilot Essentials by Microsoft Press | LinkedIn Learning | ✅ Completed  |
-
----
-
-## 🚀 My Projects
-
-| 🔹 Project | 💡 What it solves | 🔗 Link |
-|---|---|---|
-| 🖥️ **IT Asset Tracker** | Track laptops/desktops, owners, warranty & lifecycle in one place | [Repo](https://github.com/Vikas3333-singh/it-asset-tracker) |
-| 🔧 **Remote Support Toolkit** | Scripts & tools to speed up L2 remote troubleshooting workflows | [Repo](https://github.com/Vikas3333-singh/README.md.git) |
-| 🌐 **Personal Portfolio** | IT support profile, skills & project showcase website | [Live](https://vikas3333-singh.github.io/vikas-singh.github.io/) · [Repo](https://vikas3333-singh.github.io/vikas-singh.github.io/) |
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikas3333-singh&theme=tokyo-night&hide_border=true&area=true)
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikas-singh-816657ab">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:vikaskumarsingh333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**[Personal Portfolio](https://vikas3333-singh.github.io/vikas-singh.github.io/)**
+IT support profile, skills & project showcase — built with HTML, CSS & JS.
 
 ---
 
 <p align="center">
-  <i>"Keeping endpoints secure, users productive, and IT running smoothly."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="130"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas3333-singh&theme=tokyonight&hide_border=true" height="130"/>
 </p>
+
+---
+
+<p align="center"><i>Endpoints secured. Users productive. IT running.</i></p>
