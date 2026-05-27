@@ -94,7 +94,7 @@ status   : open to new opportunities
 
 ## Projects
 
-**[Fix Mate – IT Troubleshooting Utility](https://github.com/Vikas3333-singh/fixmate)**
+**[Fix Mate – IT Troubleshooting Utility](https://github.com/Vikas3333-singh/README.md)**
 Lightweight <100KB .bat automation tool with prompt-driven self-resolution workflows. Deployed at Femmella — reduced L1 ticket volume by ~35% in the first month.
 `Batch` `Automation`
 
@@ -102,7 +102,7 @@ Lightweight <100KB .bat automation tool with prompt-driven self-resolution workf
 PowerShell script automating new-joiner setup end-to-end — Azure AD creation, SCCM software push, email config & checklist generation. Cut onboarding from 8 hrs to under 4.
 `PowerShell` `SCCM` `Azure AD`
 
-**IT Asset Tracker Dashboard**
+**IT Asset Tracker Dashboard (https://github.com/Vikas3333-singh/it-asset-tracker)**
 Power BI dashboard pulling live ServiceNow data to track 500+ devices — warranty, assignment history, lifecycle stage. Reduced weekly manual reporting from 4 hrs to under 20 mins.
 `Power BI` `ServiceNow`
 
