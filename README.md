@@ -88,10 +88,7 @@ IT support profile, skills & project showcase — built with HTML, CSS & JS.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas3333-singh&theme=tokyonight&hide_border=true&layout=compact" height="130"/>
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikas3333-singh&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
