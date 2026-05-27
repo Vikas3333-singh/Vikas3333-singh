@@ -102,9 +102,9 @@ Lightweight <100KB .bat automation tool with prompt-driven self-resolution workf
 PowerShell script automating new-joiner setup end-to-end — Azure AD creation, SCCM software push, email config & checklist generation. Cut onboarding from 8 hrs to under 4.
 `PowerShell` `SCCM` `Azure AD`
 
-**IT Asset Tracker Dashboard (https://github.com/Vikas3333-singh/it-asset-tracker)**
-Power BI dashboard pulling live ServiceNow data to track 500+ devices — warranty, assignment history, lifecycle stage. Reduced weekly manual reporting from 4 hrs to under 20 mins.
-`Power BI` `ServiceNow`
+**[IT Asset Tracker Dashboard](https://github.com/Vikas3333-singh/it-asset-tracker)**
+Browser-based dashboard to track 500+ devices — status, ownership, lifecycle stage. Reduced weekly manual reporting from 4 hrs to under 20 mins.
+`HTML` `JavaScript` `Chart.js`
 
 **Python Automation Suite**
 PDF auto-population from structured data + web scraping for report generation. Eliminated 3–4 hrs/week of manual data-entry across the IT ops team.
