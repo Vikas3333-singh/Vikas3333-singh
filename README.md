@@ -49,14 +49,6 @@ status   : open to new opportunities
 
 ## Experience
 
-**IT Systems Specialist** — Femmella Fashions India Limited · Gurgaon
-`Jan 2026 – Present`
-- L1/L2 support for 300+ users — 15+ tickets daily via ServiceNow with high first-contact resolution
-- Deployed devices via Intune, SCCM & Autopilot; cut provisioning from 8 hours to under 4
-- Maintained 99.5% uptime monitoring infrastructure with Cisco DNA Centre & ServiceNow dashboards
-- Leveraged FIXMATE automation to eliminate repetitive manual tasks and speed up resolution
-- IT asset lifecycle management at 98% accuracy across 300+ devices
-
 **System Analyst** — Konverge Technology Pvt. Ltd. *(Client: Boston Consulting Group)* · Gurgaon
 `Aug 2022 – Jan 2026`
 - Managed 500+ devices across Windows, macOS & mobile via Intune, SCCM, JAMF & Autopilot — 97% patch compliance
