@@ -2,7 +2,9 @@
 
 ### Endpoint Management Engineer | Intune | SCCM | Jamf | PowerShell | IT Operations
 
-[LinkedIn](https://www.linkedin.com/in/vikas-singh-816657ab) | [Email](mailto:vikaskumarsingh333@gmail.com) | [Portfolio](https://vikas3333-singh.github.io/vikas-singh.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-singh-816657ab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikaskumarsingh333@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vikas3333-singh.github.io/vikas-singh.github.io/)
 
 **Gurugram, Haryana, India**
 
