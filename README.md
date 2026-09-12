@@ -2,18 +2,13 @@
 
 ### Endpoint Management Engineer | Intune | SCCM | Jamf | PowerShell | IT Operations
 
-<p>
-  <a href="https://www.linkedin.com/in/vikas-singh-816657ab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vikaskumarsingh333@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://vikas3333-singh.github.io/vikas-singh.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/vikas-singh-816657ab) | [Email](mailto:vikaskumarsingh333@gmail.com) | [Portfolio](https://vikas3333-singh.github.io/vikas-singh.github.io/)
 
-**Gurugram, Haryana, India**  
+**Gurugram, Haryana, India**
+
 **Open to:** Endpoint Management, IT Operations, Workplace Technology, Infrastructure Support
 
 > I help enterprise IT teams secure endpoints, automate repetitive work, improve onboarding, and reduce support escalations through reliable operational processes.
-
----
 
 ## About Me
 
@@ -21,17 +16,13 @@ Endpoint Management and IT Operations professional with 9+ years of experience s
 
 I work across Microsoft Intune, SCCM, Jamf Pro, Azure AD, ServiceNow, and PowerShell automation to make IT support more efficient, scalable, and measurable.
 
----
-
 ## Impact Snapshot
 
 - Managed **500+ enterprise devices** across Windows, macOS, and mobile environments with **97% patch compliance**.
 - Reduced **L1 escalations by 30%** by improving workflows and adding self-service support resources.
 - Cut **new-joiner provisioning time from 8 hours to under 4 hours** through automation.
 - Maintained **92% SLA adherence** across P1–P5 incidents using ITIL-aligned support workflows.
-- Reduced **weekly asset-reporting effort from 4 hours to under 20 minutes** by building a lifecycle-tracking dashboard.
-
----
+- Reduced **weekly asset-reporting effort from 4 hours per week to under 20 minutes** by building a lifecycle-tracking dashboard.
 
 ## Core Skills
 
@@ -52,8 +43,6 @@ I work across Microsoft Intune, SCCM, Jamf Pro, Azure AD, ServiceNow, and PowerS
 
 ### Reporting & Asset Operations
 `Excel` `Power BI` `IT Asset Lifecycle Tracking`
-
----
 
 ## Experience
 
@@ -87,8 +76,6 @@ I work across Microsoft Intune, SCCM, Jamf Pro, Azure AD, ServiceNow, and PowerS
 - Resolved issues across email, VPN, LAN/WAN, printers, and end-user systems with an average turnaround of under 4 hours.
 - Supported business-critical operations in a government environment with strong incident discipline and service reliability.
 
----
-
 ## Featured Projects
 
 ### IT Asset Tracker Dashboard
@@ -117,8 +104,6 @@ I work across Microsoft Intune, SCCM, Jamf Pro, Azure AD, ServiceNow, and PowerS
 
 > Only keep projects here that have working links, clean documentation, and can survive interview-level questioning.
 
----
-
 ## Certifications
 
 - ITIL 4 Foundation — Simplilearn
@@ -127,8 +112,6 @@ I work across Microsoft Intune, SCCM, Jamf Pro, Azure AD, ServiceNow, and PowerS
 - Microsoft Copilot Essentials — Microsoft Press
 - macOS Tahoe Essential Training — LinkedIn Learning
 
----
-
 ## What I Bring
 
 - Strong endpoint administration across Windows and macOS environments.
@@ -136,17 +119,6 @@ I work across Microsoft Intune, SCCM, Jamf Pro, Azure AD, ServiceNow, and PowerS
 - Hands-on experience in incident handling, asset operations, and user lifecycle management.
 - Ability to turn repetitive support tasks into documented, repeatable processes.
 
----
-
 ## Current Focus
 
 I am targeting roles in endpoint management, IT operations, workplace technology, and infrastructure support where I can contribute through automation, device management, and service improvement.
-
----
-
-## GitHub Profile Notes
-
-- Remove any leftover stray text like `PromptBuilder` from the bottom of the README.
-- Add screenshots for your best 2 projects to improve trust and visual proof.
-- If a repository is private or incomplete, do not feature it until it is clean.
-- Keep all claims interview-defensible; if you cannot explain the number, remove it.
