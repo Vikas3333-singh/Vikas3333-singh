@@ -1,48 +1,49 @@
 # Hi, I'm Vikas Singh 👋
-### Senior End User Support & Workplace Technology Specialist | 11+ Years Experience
+### End User Support & Workplace Technology Specialist | 11+ Years Experience
 **L1/L2 Deskside & VIP Support • Windows & macOS • Microsoft 365 • Entra ID • Intune & Autopilot • ServiceNow (ITIL 4) • 95%+ SLA**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-singh-816657ab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikaskumarsingh333@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Executive_Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vikas3333-singh.github.io/vikas-singh.github.io/)
-📍 **Gurugram, Haryana, India** | 🎯 **Focus:** Senior Workplace Services • VIP Deskside Operations • Enterprise IT Automation
-> *"Over 11+ years of proven expertise managing enterprise end-user computing (EUS), delivering white-glove VIP support for tier-1 management consulting environments (including Boston Consulting Group), and engineering custom Python/PowerShell automation to eliminate operational support bottlenecks."*
+[![Executive Portfolio](https://img.shields.io/badge/Executive_Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vikas3333-singh.github.io/vikas-singh.github.io/)
+📍 **Gurugram, Haryana, India** | 🎯 **Focus:** Workplace Services • VIP Deskside Operations • Enterprise IT Automation
+> *"Over 11+ years of proven expertise managing enterprise end-user Support (EUS), delivering white-glove VIP support for tier-1 management consulting environments (including Boston Consulting Group), and engineering custom Python/PowerShell automation to eliminate operational support bottlenecks."*
 ---
-## Executive Career Snapshot (Real Operational Impact)
+## ⚡ Executive Career Snapshot (Real Operational Impact)
 | Operational Domain | Legacy Baseline (Manual) | Optimized (Automated) | Strategic Business Impact |
 | :--- | :--- | :--- | :--- |
 | **Lenovo Warranty E-Ticketing** | 15–20 mins per claim | **<15 seconds per unit** | 90% reduction in vendor dispatch logging time via Python automation |
 | **Endpoint Diagnostics MTTR** | 35–45 mins per laptop | **4.5 mins automated run** | 88.7% MTTR cut via cross-platform troubleshooting utility |
-| **Cloud Device Provisioning** | Manual hands-on setup | **Unattended Cloud Staging** | 80% engineer touch-time saved via Intune & Windows Autopilot |
+| **Cloud Device Provisioning** | ~150 mins hands-on setup | **<20 mins hands-on time** | 85% engineer touch-time saved via Intune & Windows Autopilot |
 | **Fleet Patch Compliance** | 82%–88% (fluctuating) | **97%+ consistent** | Zero critical CVE vulnerabilities across 500+ heterogeneous devices |
 | **IT Asset Reconciliation** | 4 hours/week manual Excel | **<20 minutes weekly** | 90% time saved with real-time browser-based asset lifecycle tracking |
 | **Executive / VIP Meetings** | Occasional AV/tech delays | **100% Zero-Downtime** | White-glove IT support for 30+ Partner/Director townhalls & conferences |
 ---
-## Core Technical Competencies
+## 🛠️ Core Technical Competencies
 
 ┌─────────────────────────────────┬─────────────────────────────────────────────────────────┐
 │ Domain                          │ Enterprise Technology Stack                             │
 ├─────────────────────────────────┼─────────────────────────────────────────────────────────┤
 │ Endpoint Management (MDM/MAM)   │ Microsoft Intune, MECM / SCCM, Jamf Pro, Windows Autopilot │
 │ Automation & Software Dev       │ Python 3.x (Selenium, openpyxl), PowerShell, Bash, Batch │
+│ Deskside & Hardware Break-Fix   │ Laptop/Desktop teardown, RAM/SSD upgrades, Motherboard  │
 │ Vendor Hardware & RMA Lifecycle │ Lenovo Commercial Support Portal, Apple Premier Support │
 │ Identity & Access (IAM)         │ Microsoft Entra ID (Azure AD), M365 Admin, SSO, MFA, RBAC│
 │ Operating Systems & Platforms   │ Windows 10/11 Enterprise, macOS (Ventura–Sequoia), iOS  │
 │ ITSM & Frameworks               │ ServiceNow (Incident/Change/Problem/Asset), ITIL 4      │
-│ Executive / Deskside Support    │ VIP White-Glove Support, Townhall AV, Teams Rooms / Zoom │
+│ Executive / VIP Support         │ VIP White-Glove Support, Townhall AV, Teams Rooms / Zoom │
 │ Infrastructure & Networking     │ TCP/IP, DNS, DHCP, GlobalProtect / Cisco AnyConnect VPN  │
 └─────────────────────────────────┴─────────────────────────────────────────────────────────┘
-
+ 
 ---
 ## 🏆 Featured Engineering Projects
 ### 1. [Lenovo-E-Ticket-Automation (TicketForge)](https://github.com/Vikas3333-singh/Lenovo-E-Ticket-Automation/tree/main)
 *Production-Grade Robotic Process Automation (RPA) for Enterprise Hardware Warranty Claims*
-* **The Problem (Kya problem thi):** In enterprise environments, handling hardware failures (motherboard, display flickering, battery swelling, keyboard replacement) required support engineers to manually log into the Lenovo enterprise portal, fill 15+ repetitive form fields per device, wait for confirmation, and copy case IDs back into tracking spreadsheets. For 8–10 broken machines, this wasted 2.5 to 3 hours with constant human copy-paste mistakes.
-* **The Action (Maine kya kiya):**
+* **The Problem:** Handling daily office hardware breakdowns (motherboard failures, screen lines, battery swelling, keyboard replacement) required support engineers to manually log into the Lenovo enterprise support portal, fill 15+ form fields per laptop, wait for portal verification, and copy case IDs back into tracking spreadsheets. For 8–10 broken machines, this wasted 2.5 to 3 hours with constant human copy-paste mistakes.
+* **The Action:**
   * Engineered **TicketForge** using **Python 3.11, Selenium WebDriver (Headless mode)**, and **openpyxl** for batch processing.
-  * Built dual execution workflows: single-device rapid command line execution or full automated batch submission directly from an Excel hardware queue manifest.
+  * Built dual execution workflows: single-device rapid CLI execution or full automated batch submission directly from an Excel hardware queue manifest.
   * Implemented automated session authentication, multi-field payload injection, dynamic Lenovo Case ID scraping, and real-time bidirectional status sync back into Excel.
   * Added robust exception handling with automated retries for portal timeouts.
-* **The Output (Kya result aaya):**
+* **The Output:**
   * Submitting an 8-device hardware warranty batch was reduced from **~2.5 hours down to 1 minute 42 seconds**.
   * Achieved 100% submission accuracy with zero manual data entry errors.
 * **The Business Benefit (Output se kya fayda mila):**
@@ -66,23 +67,25 @@
 ---
 ### 4. [IT Asset Tracker & Hardware Lifecycle Dashboard](https://github.com/Vikas3333-singh/it-asset-tracker)
 *Real-Time Enterprise Asset Governance & Compliance Platform*
-* **The Problem (Kya problem thi):** Reconciling physical laptop inventory across remote and on-premise staff required 4 hours every week of manual Excel cross-matching, causing inventory leakage and untracked depreciation.
-* **The Action (Maine kya kiya):** Built a web-based ITAM dashboard utilizing JavaScript, Chart.js, and automated log parsers to track lifecycle status, assigned consultants, warranty expiry, and device health.
+* **The Problem (Kya problem thi):** Reconciling physical laptop inventory across remote and on-premises staff required 4 hours every week of manual Excel cross-matching, causing inventory leakage and untracked depreciation.
+* **The Action (Maine kya kiya):** Built a web-based ITAM dashboard utilising JavaScript, Chart.js, and automated log parsers to track lifecycle status, assigned consultants, warranty expiry, and device health.
 * **The Output (Kya result aaya):** Weekly audit time decreased from **4 hours/week down to under 20 minutes** with live visualization.
 * **The Business Benefit (Output se kya fayda mila):** Eliminated ghost assets, achieved **99%+ audit compliance**, and prevented costly software license overages.
 ---
 ## 💼 Professional Experience (11+ Years)
-### **Senior IT Systems Specialist**
-**Femmella Fashion**  
+### **Technical Support Engineer**
+**Femmella Fashions Pvt. Ltd.**  
 *Gurugram, Haryana | Jan 2026 – Present*
-* **EUC & IAM Architecture:** Lead end-user computing operations and identity access governance (Joiner/Mover/Leaver) across enterprise systems.
-* **Process Automation:** Architected and deployed **TicketForge (Lenovo E-Ticket Automation)**, eliminating manual vendor warranty ticket submission and reducing tracking lag to zero.
-* **Compliance & Hardware Lifecycle:** Managing hardware refresh cycles, warranty renewals, and enterprise endpoint compliance.
+* **Hands-on Deskside & Hardware Support:** Delivered end-to-end L1/L2 desktop support across 150+ corporate users; resolved daily hardware failures (laptop break-fix, RAM/SSD upgrades, screen/battery replacements), Windows 10/11 OS corruption, and Microsoft 365/Outlook crashes.
+* **Vendor RMA & Automation (TicketForge):** Coordinated with OEM vendors (Lenovo/Dell) for warranty part replacements. Engineered **TicketForge (Python & Selenium)** to eliminate the daily manual hassle of logging 15+ portal fields per broken machine, automating batch warranty claims directly from Excel.
+* **User Onboarding & Asset Lifecycle:** Managed the complete provisioning lifecycle—laptop imaging, domain joining, M365 profile configuration, and hardware handover for new joiners, along with secure asset recovery for offboarding staff.
+* **Peripherals & Office Infrastructure:** Maintained local IT infrastructure including network multifunction printers, barcode label printers, conference room AV setup, and local LAN/Wi-Fi AP connectivity.
+* **Inventory & Asset Tracking:** Maintained physical stock counts of spare laptops, adapters, docking stations, and peripherals to ensure zero downtime for business operations.
 ---
 ### **System Analyst (End User & Workplace Services)**
 **Client:** Boston Consulting Group (BCG) — via Konverge Technologies  
 *Gurugram, Haryana | Aug 2022 – Jan 2026*
-* **Enterprise Fleet Governance:** Administered 500+ endpoints (Windows, macOS, Mobile) across BCG offices ensuring **97%+ patch compliance** against critical CVE vulnerabilities.
+* **Enterprise Fleet Governance:** Administered 500+ endpoints (Windows, macOS, Mobile) across BCG offices, ensuring **97%+ patch compliance** against critical CVE vulnerabilities.
 * **VIP White-Glove Support:** Dedicated deskside support lead for Partners, Managing Directors, and Practice Area Leaders; provided zero-downtime support for 30+ critical tier-1 meetings and executive townhalls.
 * **Modern IAM Operations:** Managed Entra ID (Azure AD) lifecycle, Conditional Access policies, automated group memberships, and MFA enforcement adhering strictly to global zero-trust principles.
 * **SLA Leadership:** Maintained a **95.4% SLA compliance rate** in ServiceNow across P1–P5 incidents by developing structured root-cause analysis (RCA) and standard operating procedures (SOPs).
@@ -112,4 +115,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikas-singh-816657ab)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail)](mailto:vikaskumarsingh333@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github)](https://vikas3333-singh.github.io/vikas-singh.github.io/)
-*Available for Senior Workplace Services, Enterprise Deskside / VIP Support Lead, and Endpoint Operations roles.*
+*Available for Workplace Services, Enterprise Deskside / VIP Support Lead, and Endpoint Operations roles.*
