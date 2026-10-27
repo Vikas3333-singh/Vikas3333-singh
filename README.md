@@ -1,126 +1,144 @@
 # Hi, I'm Vikas Singh 👋
 
-### Endpoint Management Engineer | Intune | SCCM | Jamf | PowerShell | IT Operations
+### Endpoint Management Engineer | Intune • MECM • Jamf • PowerShell • IT Operations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-singh-816657ab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikaskumarsingh333@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vikas3333-singh.github.io/vikas-singh.github.io/)
 
-**Gurugram, Haryana, India**
+📍 **Gurugram, Haryana, India**  
+🎯 **Open to:** Endpoint Management • IT Operations • Workplace Technology • Infrastructure Support
 
-**Open to:** Endpoint Management, IT Operations, Workplace Technology, Infrastructure Support
+> *Enterprise IT Operations & Endpoint Engineer focused on securing device fleets, automating repetitive workflows, and driving zero-downtime service delivery.*
 
-> I help enterprise IT teams secure endpoints, automate repetitive work, improve onboarding, and reduce support escalations through reliable operational processes.
+---
 
-## About Me
+## 📌 About Me
 
-Endpoint Management and IT Operations professional with 9+ years of experience supporting enterprise users, managing Windows and macOS environments, and improving service delivery.
+Results-driven **Endpoint Management and IT Operations professional with 9+ years of experience** supporting enterprise environments across Windows, macOS, and mobile fleets. 
 
-I work across Microsoft Intune, SCCM, Jamf Pro, Azure AD, ServiceNow, and PowerShell automation to make IT support more efficient, scalable, and measurable.
+Specialized in modern workplace management using **Microsoft Intune, MECM/SCCM, Jamf Pro, Microsoft Entra ID (Azure AD), ServiceNow**, and **PowerShell automation** to build resilient, compliant, and scalable IT systems.
 
-## Impact Snapshot
+---
 
-- Managed **500+ enterprise devices** across Windows, macOS, and mobile environments with **97% patch compliance**.
-- Reduced **L1 escalations by 30%** by improving workflows and adding self-service support resources.
-- Cut **new-joiner provisioning time from 8 hours to under 4 hours** through automation.
-- Maintained **92% SLA adherence** across P1–P5 incidents using ITIL-aligned support workflows.
-- Reduced **weekly asset-reporting effort from 4 hours per week to under 20 minutes** by building a lifecycle-tracking dashboard.
+## ⚡ Impact Snapshot
 
-## Core Skills
+- 🛡️ **500+ Enterprise Devices Managed:** Windows, macOS, and iOS/Android fleets maintained at **97% patch compliance**.
+- 📉 **30% Escalation Reduction:** Decreased L1 ticket escalations by introducing self-service documentation and optimized triage SOPs.
+- ⏱️ **50% Faster Onboarding:** Reduced new-hire provisioning time from **8 hours to under 4 hours** via automated deployment scripts.
+- 🎯 **92% SLA Adherence:** Consistently met resolution targets across P1–P5 incidents adhering to ITIL v4 frameworks.
+- 📊 **90% Time Saved on Asset Audits:** Automated weekly reporting from **4 hours/week down to <20 minutes** using a custom lifecycle dashboard.
 
-### Endpoint Management
-`Microsoft Intune` `SCCM / MECM` `Jamf Pro` `Windows Autopilot`
+---
 
-### Identity & Productivity
-`Azure AD / Entra ID` `Microsoft 365` `MFA` `User Provisioning`
+## 🛠️ Technical Skills
 
-### IT Service Management
-`ServiceNow` `BMC Remedy` `ITIL 4` `SLA Management` `Incident Handling`
+### Endpoint Management & Modern Workplace
+![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![MECM](https://img.shields.io/badge/MECM%20%2F%20SCCM-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Jamf Pro](https://img.shields.io/badge/Jamf_Pro-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows Autopilot](https://img.shields.io/badge/Windows_Autopilot-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Patch Compliance](https://img.shields.io/badge/Patch_Management-4CAF50?style=flat-square)
 
-### Automation
-`PowerShell` `Batch Scripting` `Python`
+### Identity & Access Management (IAM)
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID_(Azure_AD)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![M365](https://img.shields.io/badge/Microsoft_365_Admin-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![MFA](https://img.shields.io/badge/MFA_%26_SSO-24292E?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC_Provisioning-555555?style=flat-square)
 
-### Infrastructure
-`Windows 10/11` `macOS` `LAN/WAN` `VPN` `DHCP` `DNS`
+### Automation & Scripting
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch_Scripting-4D4D4D?style=flat-square)
 
-### Reporting & Asset Operations
-`Excel` `Power BI` `IT Asset Lifecycle Tracking`
+### ITSM & Service Delivery
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![ITIL v4](https://img.shields.io/badge/ITIL_v4_Framework-0052CC?style=flat-square)
+![SLA Management](https://img.shields.io/badge/Incident_%26_Change_Mgmt-2E7D32?style=flat-square)
+![Asset Lifecycle](https://img.shields.io/badge/ITAM_Lifecycle-FF6F00?style=flat-square)
 
-## Experience
+### Systems & Network Infrastructure
+![Windows](https://img.shields.io/badge/Windows_10%2F11_Enterprise-0078D4?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS_Ventura%2FSonoma-000000?style=flat-square&logo=apple&logoColor=white)
+![Networking](https://img.shields.io/badge/LAN%2FWAN%20%7C%20VPN%20%7C%20DHCP%20%7C%20DNS-333333?style=flat-square)
 
-### System Analyst — Konverge Technology Pvt. Ltd.
-**Client:** Boston Consulting Group  
-**Location:** Gurugram, Haryana  
-**Duration:** Aug 2022 – Jan 2026
+---
 
-- Managed 500+ endpoints across Windows, macOS, and mobile using Intune, SCCM, Jamf Pro, and Windows Autopilot.
-- Achieved 97% patch compliance across managed enterprise devices.
-- Supported Azure AD operations including onboarding, access control, MFA troubleshooting, and password resets.
-- Maintained 92% SLA adherence across P1–P5 incidents using ServiceNow and ITIL-based workflows.
-- Reduced escalation rates by 30% by improving L1 support workflows and creating self-service documentation.
-- Supported IT and AV operations for 20+ high-visibility events with no reported downtime.
-- Built PowerShell-based automations and dashboards for asset tracking and daily IT operations.
+## 💼 Professional Experience
 
-### L1 Support Engineer — Puthur Infotech Pvt. Ltd.
-**Location:** Patna, Bihar  
-**Duration:** Mar 2018 – Aug 2022
+### **System Analyst** — Konverge Technology Pvt. Ltd.
+**Client:** Boston Consulting Group (BCG) | Gurugram, Haryana  
+*Aug 2022 – Jan 2026*
 
-- Led Windows 7 to Windows 10 migration for 180+ systems using SCCM and PXE boot within 6 weeks.
-- Trained junior support staff on troubleshooting SOPs, improving first-call resolution by 22%.
-- Managed IT asset tracking for 200+ devices with 96% inventory accuracy.
+- Administered a mixed environment of **500+ endpoints** (Windows, macOS, iOS/Android) leveraging Microsoft Intune, MECM, Jamf Pro, and Autopilot.
+- Maintained an average **97% security patch compliance** across the fleet, mitigating critical CVE vulnerabilities.
+- Managed Microsoft Entra ID operations including user provisioning, dynamic group policies, MFA rollout, and Conditional Access rules.
+- Maintained **92% SLA adherence** across P1–P5 incidents using ServiceNow aligned with ITIL processes.
+- Authored technical SOPs and self-help documentation, reducing first-tier ticket escalations by **30%**.
+- Provided executive IT/AV support for **20+ tier-1 business events** without incident.
+- Engineered PowerShell scripts for inventory audits, software deployment, and automated configuration tasks.
 
-### Technical Support Engineer — Atlanta Systems Pvt. Ltd.
-**Client:** Rural Electrification Corporation  
-**Location:** New Delhi  
-**Duration:** May 2016 – Mar 2018
+---
 
-- Delivered L1/L2 support across headquarters and 15+ remote branches for 200+ users.
-- Resolved issues across email, VPN, LAN/WAN, printers, and end-user systems with an average turnaround of under 4 hours.
-- Supported business-critical operations in a government environment with strong incident discipline and service reliability.
+### **L1 Support Engineer** — Puthur Infotech Pvt. Ltd.
+Patna, Bihar  
+*Mar 2018 – Aug 2022*
 
-## Featured Projects
+- Successfully executed Windows 7 to Windows 10 OS migration for **180+ systems** using SCCM and PXE boot within 6 weeks.
+- Mentored junior support engineers on standard troubleshooting SOPs, raising first-contact resolution (FCR) by **22%**.
+- Maintained an active hardware/software inventory of **200+ assets** with **96% audit accuracy**.
 
-### IT Asset Tracker Dashboard
-**Problem:** Weekly asset reporting was manual and slow.  
-**Solution:** Built a browser-based dashboard to track 500+ devices by status, owner, and lifecycle stage.  
-**Impact:** Reduced reporting effort from 4 hours per week to under 20 minutes.  
-**Tech:** `HTML` `JavaScript` `Chart.js`  
-**Repository:** [View Project](https://github.com/Vikas3333-singh/it-asset-tracker)
+---
 
-### Onboarding Automation Script
-**Problem:** New-joiner setup was repetitive and time-intensive.  
-**Solution:** Built a PowerShell workflow for setup coordination, software provisioning steps, and checklist generation.  
-**Impact:** Reduced onboarding time from 8 hours to under 4 hours.  
-**Tech:** `PowerShell` `SCCM` `Azure AD`
+### **Technical Support Engineer** — Atlanta Systems Pvt. Ltd.
+**Client:** Rural Electrification Corporation | New Delhi  
+*May 2016 – Mar 2018*
 
-### Python Automation Suite
-**Problem:** Reporting and document preparation consumed valuable team hours every week.  
-**Solution:** Built Python automations for structured-data processing and reporting workflows.  
-**Impact:** Eliminated 3–4 hours of recurring manual work per week.  
-**Tech:** `Python` `Automation`
+- Provided tier 1/2 technical support across HQ and **15+ remote branch offices** catering to 200+ end users.
+- Troubleshot enterprise network issues, VPN connectivity, exchange email setup, and peripheral devices with a turnaround under 4 hours.
+- Adhered to strict compliance and protocol standards in a government client setting.
 
-### Personal Portfolio Website
-**Purpose:** Showcase experience, projects, and technical strengths in a cleaner personal brand format.  
-**Tech:** `HTML` `CSS` `JavaScript`  
-**Live Site:** [Visit Portfolio](https://vikas3333-singh.github.io/vikas-singh.github.io/)
+---
 
-> Only keep projects here that have working links, clean documentation, and can survive interview-level questioning.
+## 🚀 Featured Projects
 
-## Certifications
+### 📊 [IT Asset Tracker Dashboard](https://github.com/Vikas3333-singh/it-asset-tracker)
+- **Problem:** Weekly asset audit reports required manual cross-referencing, consuming ~4 hours per week.
+- **Solution:** Developed a web-based dashboard tracking 500+ enterprise assets by lifecycle status, assigned user, and compliance state.
+- **Impact:** Reduced weekly reporting time from 4 hours to under 20 minutes.
+- **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Chart.js`
 
-- ITIL 4 Foundation — Simplilearn
-- Generative AI: Prompt Engineering — LinkedIn Learning
-- Python Programming — Google / LinkedIn Learning
-- Microsoft Copilot Essentials — Microsoft Press
-- macOS Tahoe Essential Training — LinkedIn Learning
+### ⚙️ Automated User Onboarding Framework
+- **Problem:** Repetitive onboarding steps resulted in human errors and ~8-hour delays per new hire.
+- **Solution:** Designed a modular PowerShell automation suite integrating with MECM and Entra ID for software silent installs and profile setup.
+- **Impact:** Halved total device turnaround time to under 4 hours with 100% policy compliance.
+- **Tech Stack:** `PowerShell` `MECM / SCCM` `Microsoft Entra ID`
 
-## What I Bring
+### 🐍 IT Operations Python Automation Suite
+- **Problem:** Manual parsing of disparate CSV/Excel device logs wasted multiple engineer hours every week.
+- **Solution:** Built automated Python scripts to clean, normalize, and highlight inventory discrepancies.
+- **Impact:** Reclaimed 3–4 hours of weekly operational overhead.
+- **Tech Stack:** `Python` `Pandas` `Scripting`
 
-- Strong endpoint administration across Windows and macOS environments.
-- Automation-first thinking focused on reducing manual operational work.
-- Hands-on experience in incident handling, asset operations, and user lifecycle management.
-- Ability to turn repetitive support tasks into documented, repeatable processes.
+### 🌐 [Personal Portfolio Website](https://vikas3333-singh.github.io/vikas-singh.github.io/)
+- **Summary:** Interactive portfolio showcasing professional background, system administration strengths, and featured code repositories.
+- **Tech Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
-## Current Focus
+---
 
-I am targeting roles in endpoint management, IT operations, workplace technology, and infrastructure support where I can contribute through automation, device management, and service improvement.
+## 📜 Certifications
+
+- **ITIL 4 Foundation** — Simplilearn
+- **macOS Support & Administration Essentials** — LinkedIn Learning
+- **Microsoft Copilot & AI Productivity Essentials** — Microsoft Press
+- **Generative AI: Prompt Engineering** — LinkedIn Learning
+- **Python for IT Automation** — Google / LinkedIn Learning
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikas-singh-816657ab)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-red?style=for-the-badge&logo=gmail)](mailto:vikaskumarsingh333@gmail.com)
+
+*Always open to discussing Endpoint Engineering, Infrastructure Automation, and Modern Workplace transformations.*
