@@ -57,7 +57,7 @@ I don't just close tickets; when I see my team doing the exact same manual task 
 - **The Result:** Weekly asset reporting dropped from **4 hours of manual cross-checking to under 20 minutes**.
 ---
 ## 💼 Work Experience
-### **Senior Desktop Support Engineer**
+### **Technical Support Engineer**
 **Femmella Fashions Pvt. Ltd.** | *Gurugram, Haryana*  
 *Jan 2026 – Present*
 - **Hands-on Hardware Support:** Run daily deskside support for 150+ corporate and warehouse users, handling hardware upgrades (RAM/SSD), battery replacements, Windows crashes, and Outlook/M365 issues.
@@ -71,17 +71,17 @@ I don't just close tickets; when I see my team doing the exact same manual task 
 - **Fleet Health (500+ Endpoints):** Managed mixed Windows, macOS, and mobile fleets using Intune, MECM, Jamf Pro, and Autopilot. Kept fleet patch compliance consistently above 97%.
 - **VIP White-Glove Support:** Dedicated point of contact for Partners, Managing Directors, and Practice Leaders. Provided calm, zero-downtime deskside and AV support for 30+ high-stakes leadership meetings and townhalls.
 - **Identity & Access:** Handled day-to-day Entra ID (Azure AD) tasks, Conditional Access rules, and MFA rollouts with a strict zero-trust approach.
-- **Service Delivery:** Kept a **95.4% SLA adherence** on ServiceNow tickets by creating clear diagnostic playbooks and root-cause fixes.
+- **Service Delivery:** Maintained **95.4% SLA adherence** on ServiceNow tickets by creating clear diagnostic playbooks and root-cause fixes.
 - **Smart Support:** Wrote PowerShell scripts that automated routine user fixes, deflecting 30% of repetitive L1 tickets.
 ---
-### **Senior Technical Support Engineer**
+### **Technical Support Engineer**
 **Puthur Infotech Pvt. Ltd.** | *Patna, Bihar*  
 *Mar 2018 – Aug 2022*
 - **Windows 10 Migration:** Led the migration of 180+ mission-critical office workstations from Windows 7 to Windows 10 using SCCM and PXE boot within a tight 6-week window.
 - **Team Guidance:** Trained and mentored 6 junior support techs on ITIL ticketing standards and structured troubleshooting, boosting our First Contact Resolution (FCR) by 22%.
 - **Asset Control:** Managed the physical IT inventory of 200+ machines with 96% audit accuracy.
 ---
-### **Technical Support Engineer**
+### **Desktop Support Engineer**
 **Client: Rural Electrification Corporation (REC)** — via Atlanta Systems | *New Delhi*  
 *May 2015 – Mar 2018*
 - **Multi-Branch Support:** Handled Tier 1/2 support for 200+ users across the REC Headquarters and 15+ remote regional branch offices.
