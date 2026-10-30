@@ -1,8 +1,3 @@
-Aapke requirement ke mutabiq **Femmella Fashions** ka experience poori tarah hata kar, aapki 11+ years ki overall timeline aur experience list ko clean, cohesive aur professional tarike se re-align kar diya hai.
-
-Aap is optimized content ko seedhe apne `README.md` mein paste kar sakte hain:
-
-```markdown
 <div align="center">
 
 # Hi, I'm Vikas Singh 👋
@@ -35,10 +30,7 @@ Aap is optimized content ko seedhe apne `README.md` mein paste kar sakte hain:
   | |  | |   |  _| \ \/ / '_ \ / _ \ '__|| __|
   | |  | |   | |___ >  <| |_) |  __/ |   | |_ 
  |___| |_|   |_____/_/\_\ .__/ \___|_|    \__|
-                         |_|                  
-
-```
-
+                         |_|
 ---
 
 ## ⚡ Executive Summary
