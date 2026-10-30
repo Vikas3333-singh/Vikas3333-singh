@@ -1,6 +1,6 @@
-Aapke existing README.md ko ek high-impact, sleek aur ultra-professional version mein redesign kiya gaya hai. Isme modern layout, interactive badges, structured tables, visual callouts, aur sharp formatting ka istemal kiya gaya hai jo GitHub profile par kaafi eye-catching dikhega.
+Aapke requirement ke mutabiq **Femmella Fashions** ka experience poori tarah hata kar, aapki 11+ years ki overall timeline aur experience list ko clean, cohesive aur professional tarike se re-align kar diya hai.
 
-Aap is formatted content ko directly apne `README.md` file mein paste kar sakte hain:
+Aap is optimized content ko seedhe apne `README.md` mein paste kar sakte hain:
 
 ```markdown
 <div align="center">
@@ -10,9 +10,19 @@ Aap is formatted content ko directly apne `README.md` file mein paste kar sakte 
 
 *Transforming IT Operations through Automation, VIP White-Glove Support & Modern Endpoint Management.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-singh-816657ab)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikaskumarsingh333@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vikas3333-singh.github.io/vikas-singh.github.io/)
+<a href="https://www.linkedin.com/in/vikas-singh-816657ab" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+ 
+<a href="mailto:vikaskumarsingh333@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+ 
+<a href="https://vikas3333-singh.github.io/vikas-singh.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<br><br>
 
 📍 **Gurugram, Haryana, India**  
 🎯 **Targeting Roles:** Workplace Services Lead • Deskside & VIP Support Specialist • Endpoint Operations Manager
@@ -59,7 +69,7 @@ When a routine support process repeats, I build Python scripts or PowerShell wor
 ```text
  💻 Endpoint Ops   : Microsoft Intune | MECM/SCCM | Jamf Pro | Windows Autopilot
  🔐 Identity & Cloud: Entra ID (Azure AD) | Microsoft 365 Admin | MFA | Conditional Access
- ⚙️ Automation    : Python (Selenium, openpyxl) | PowerShell | Bash | Batch
+ ⚙️ Automation     : Python (Selenium, openpyxl) | PowerShell | Bash | Batch
  🎟️ ITSM & Process : ServiceNow | ITIL 4 Foundation | SLA Management | Asset Mgmt
  🖥️ Hardware & OS  : Windows 10/11 | macOS | Disassembly/Repairs | AV/Meeting Rooms
 
@@ -112,26 +122,24 @@ When a routine support process repeats, I build Python scripts or PowerShell wor
 ## 💼 Professional Experience
 
 ```text
-Femmella Fashions Pvt. Ltd. | Gurugram, India
-📍 Technical Support Engineer (Jan 2026 – Present)
- ├─ Managing hands-on deskside support & hardware infrastructure for 150+ users.
- ├─ Engineered 'TicketForge' automation tool to accelerate warranty claims.
- └─ Overseeing complete lifecycle management, office network AV, and print servers.
-
 Boston Consulting Group (BCG) — via Konverge Technologies | Gurugram, India
-📍 System Analyst - Workplace Services (Aug 2022 – Jan 2026)
- ├─ Managed 500+ hybrid endpoints (Windows/macOS) achieving 97%+ patch compliance.
- ├─ Provided VIP white-glove support for Partners across 30+ critical leadership events.
- └─ Delivered 95.4% SLA adherence on ServiceNow while deflecting 30% L1 requests via automation.
+📍 System Analyst - Workplace Services (Aug 2022 – Present)
+ ├─ Managing mixed Windows & macOS fleets (500+ endpoints) via Intune, MECM, Jamf Pro & Autopilot with 97%+ patch compliance.
+ ├─ Providing white-glove VIP support for Partners, Managing Directors & Practice Leaders across 30+ critical leadership events.
+ ├─ Managing Entra ID (Azure AD), Conditional Access, and MFA policies following Zero Trust principles.
+ ├─ Maintaining 95.4% SLA adherence on ServiceNow while automating routine fixes to deflect 30% of L1 tickets.
+ └─ Developed Python/Selenium automation tools ('TicketForge') to streamline bulk vendor warranty claims.
 
 Puthur Infotech Pvt. Ltd. | Patna, India
 📍 Technical Support Engineer (Mar 2018 – Aug 2022)
- ├─ Spearheaded Windows 10 enterprise migration for 180+ mission-critical devices.
- └─ Mentored 6 support engineers, increasing First Contact Resolution (FCR) by 22%.
+ ├─ Spearheaded Windows 10 enterprise migration for 180+ mission-critical devices using SCCM and PXE boot.
+ ├─ Mentored 6 support engineers on ITIL processes, increasing First Contact Resolution (FCR) by 22%.
+ └─ Maintained physical inventory control for 200+ hardware assets with 96% audit accuracy.
 
 Rural Electrification Corporation (REC) — via Atlanta Systems | New Delhi, India
 📍 Desktop Support Engineer (May 2015 – Mar 2018)
- └─ Delivered Tier 1/2 support for 200+ users across headquarters and 15+ remote offices.
+ ├─ Delivered Tier 1/2 support for 200+ users across REC Headquarters and 15+ remote regional branch offices.
+ └─ Resolved VPN, LAN, and Exchange email issues adhering strictly to government compliance standards.
 
 ```
 
@@ -151,19 +159,16 @@ Rural Electrification Corporation (REC) — via Atlanta Systems | New Delhi, Ind
 
 [
 
+ 
 [
 
+ 
 [
+
+
 
 *If you're looking for an experienced IT leader who can secure endpoints, deliver white-glove VIP support, and automate tedious workloads—let's talk!*
 
 ```
-
-### Key Enhancements Made:
-1. **Modern Layout & Badges:** Uniform `for-the-badge` style badges profile link aur contacts ke liye top aur bottom section mein add kiye hain.
-2. **Interactive ASCII Header:** Centre-aligned clean ASCII / Sub-header layout add kiya gaya hai jo technical profile ko boost karta hai.
-3. **Structured Metrics Table:** "Real Numbers from the Field" ko concise aur metric-focused symbols with clean markdown spacing mein rewrite kiya hai.
-4. **Visual Experience Tree:** Work Experience section ko terminal/code-block format mein present kiya gaya hai, jo developer aur automation-focused recruiter view ke liye perfect hai.
-5. **Project Highlights:** Har project mein clear *The Problem / The Solution / The Impact* format diya gaya hai taaki reader instantly value proposition samajh sake.
 
 ```
