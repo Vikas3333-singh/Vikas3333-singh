@@ -71,7 +71,7 @@ When a routine support process repeats, I build Python scripts or PowerShell wor
 
 ## 💡 Featured Automation Projects
 
-### 🛠️ 1. [Lenovo-E-Ticket-Automation (TicketForge)](https://www.google.com/search?q=https://github.com/Vikas3333-singh/Lenovo-E-Ticket-Automation/tree/main)
+### 🛠️ 1. [Lenovo-E-Ticket-Automation (TicketForge)](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
 
 > *Automated Batch Warranty Claims Processing*
 
@@ -81,7 +81,7 @@ When a routine support process repeats, I build Python scripts or PowerShell wor
 
 ---
 
-### 🔧 2. [Advanced IT Troubleshooting Utility (AITU)](https://www.google.com/search?q=https://github.com/Vikas3333-singh)
+### 🔧 2. [Advanced IT Troubleshooting Utility (AITU)](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
 
 > *Cross-Platform One-Command Diagnostic Suite*
 
@@ -101,7 +101,7 @@ When a routine support process repeats, I build Python scripts or PowerShell wor
 
 ---
 
-### 📊 4. [IT Asset Tracker & Hardware Dashboard](https://github.com/Vikas3333-singh/it-asset-tracker)
+### 📊 4. [IT Asset Tracker & Hardware Dashboard](https://vikas3333-singh.github.io/it-asset-tracker/)
 
 > *Visual Hardware Analytics Interface*
 
