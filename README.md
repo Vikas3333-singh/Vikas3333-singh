@@ -188,46 +188,95 @@ These are the outcomes I can stand behind, straight from the work itself:
 
 ## 💡 Featured Projects
 
-### 1. 🔧 Advanced IT Troubleshooting Utility
-
-**Windows Batch | Self-Service Automation | Endpoint Support**
-
-🔗 [View Project](https://github.com/vikas3333-singh/Advanced-IT-Troubleshooting-Utility)
-
-Users kept raising tickets for the same basic problems and losing time waiting on IT, especially when travelling.
-
-**What I built:**
-- A small Windows batch tool (under 100 KB) with 8 one-click fixes.
-- Covers network reset, DNS flush, Windows Update repair, and similar recurring issues.
-- Designed so users can resolve these themselves without waiting on the service desk.
-
-**Outcome:**
-- Got approval from my manager and senior management after a live demo.
-- The Windows team added it to the BCG custom Windows image and the internal IT support tool.
-
----
-
-### 2. 🚀 Lenovo E-Ticket Automation (Ticket Forge)
+### 1. 🚀 TicketForge – Lenovo E-Ticket Automation
 
 **Python | Selenium | Excel Automation**
 
 🔗 [View Project](https://github.com/vikas3333-singh/Lenovo-E-Ticket-Automation)
 
-Manual Lenovo support ticket creation is repetitive and easy to get wrong, especially when several devices need claims at once.
+An automated batch-processing solution for Lenovo hardware warranty claims.
 
-**What I built:**
-- A Python + Selenium tool that creates Lenovo hardware support tickets in bulk from an Excel sheet.
-- Fills in serial number, issue, and address for each ticket, with an option for a different support location.
-- Writes the case ID back to the tracker.
-- Checks ticket status on the portal and updates Excel, replacing the manual next-day status checks.
+**Problem:**  
+Manual warranty claim submissions required filling multiple fields for every defective device, consuming approximately 2.5–3 hours each morning.
 
-**Outcome:**
-- Used for 30+ Lenovo support tickets per month.
-- Removed a chunk of repetitive portal work from the daily routine.
+**Solution:**
+- Developed Python and Selenium-based browser automation.
+- Automated hardware inventory extraction from Excel.
+- Automated Lenovo warranty portal interactions.
+- Implemented batch claim processing.
+- Automatically recorded claim confirmation numbers.
+
+**Impact:**
+- Reduced processing time from approximately 3 hours to 1 minute 42 seconds.
+- Accelerated hardware replacement and dispatch workflows.
+- Eliminated repetitive manual form submissions.
 
 ---
 
-<a name="experience"></a>
+### 2. 🔧 Advanced IT Troubleshooting Utility (AITU)
+
+**Python | Batch | Bash | Windows | macOS**
+
+🔗 [View Project](https://github.com/vikas3333-singh/Advanced-IT-Troubleshooting-Utility)
+
+A cross-platform diagnostic and maintenance toolkit designed to simplify routine IT troubleshooting.
+
+**Features:**
+- Automated SFC and DISM operations.
+- Network reset and troubleshooting.
+- Windows cache cleanup.
+- macOS maintenance scripts.
+- Silent execution options for Intune deployment.
+- Non-destructive dry-run capabilities.
+
+**Impact:**
+- Reduced routine maintenance from approximately 40 minutes to 4.5 minutes.
+- Helped deflect 74% of L1 escalations.
+- Standardized recurring troubleshooting workflows.
+
+---
+
+### 3. 📊 IT Asset Tracker & Hardware Dashboard
+
+**HTML5 | JavaScript | Chart.js**
+
+🔗 [View Project](https://github.com/vikas3333-singh/it-asset-tracker)
+
+An interactive browser-based dashboard for visualizing enterprise hardware inventory and warranty lifecycles.
+
+**Features:**
+- Hardware inventory visualization.
+- Device status tracking.
+- Warranty lifecycle monitoring.
+- Interactive charts and reporting.
+- Browser-based interface.
+
+**Impact:**
+- Supported tracking of 500+ distributed hardware assets.
+- Reduced weekly audit overhead from 4 hours to under 20 minutes.
+- Improved visibility into hardware inventory.
+
+---
+
+### 4. ☁️ Zero-Touch Deployment – Windows Autopilot
+
+**Microsoft Intune | Windows Autopilot | Entra ID**
+
+An enterprise deployment approach designed to streamline new-hire device provisioning.
+
+**Key Contributions:**
+- Implemented Windows Autopilot provisioning workflows.
+- Integrated Intune configuration and deployment policies.
+- Enabled drop-shipping directly to end users.
+- Streamlined automated onboarding.
+- Reduced manual device imaging and configuration effort.
+
+**Impact:**
+- Reduced engineer touch-time to under 20 minutes.
+- Improved device provisioning efficiency.
+- Simplified Day 1 employee onboarding.
+
+---
 
 ## 💼 Professional Experience
 
