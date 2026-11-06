@@ -59,7 +59,7 @@ modern endpoint management, and exceptional user experiences.*
 
 I'm an IT professional with **11+ years of experience** in enterprise IT operations, workplace technology, endpoint management, infrastructure support, and process automation.
 
-Currently working as a **System Analyst – Workplace Services at Boston Consulting Group (BCG), through Konverge Technologies**, where I manage enterprise endpoint environments, deliver VIP executive support, and drive operational efficiency through automation.
+Most recently, I worked as a **System Analyst – Workplace Services at Boston Consulting Group (BCG), through Konverge Technologies** from **August 2022 to 11 January 2026**, where I managed enterprise endpoint environments, delivered VIP executive support, and drove operational efficiency through automation.
 
 I specialize in bridging the gap between enterprise infrastructure and end-user productivity. My approach combines technical expertise, operational excellence, and automation to solve real-world IT challenges.
 
@@ -67,8 +67,10 @@ I specialize in bridging the gap between enterprise infrastructure and end-user 
 
 | | |
 |---|---|
-| **Role** | System Analyst – Workplace Services |
-| **Organization** | Boston Consulting Group (BCG), via Konverge Technologies |
+| **Role** | Workplace Technology Engineer \| IT Operations \| Automation Specialist |
+| **Most Recent Role** | System Analyst – Workplace Services |
+| **Most Recent Organization** | Boston Consulting Group (BCG), via Konverge Technologies |
+| **Tenure** | August 2022 – 11 January 2026 |
 | **Experience** | 11+ years in enterprise IT |
 | **Focus Areas** | Endpoint engineering, automation, VIP support, identity & security |
 | **Location** | Gurugram, Haryana, India |
@@ -192,7 +194,7 @@ Here are some examples of the improvements I've delivered:
 
 **Python | Selenium | Excel Automation**
 
-🔗 [View Project](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
+🔗 [View Project](https://github.com/vikas3333-singh/Lenovo-E-Ticket-Automation)
 
 An automated batch-processing solution for Lenovo hardware warranty claims.
 
@@ -217,7 +219,7 @@ Manual warranty claim submissions required filling multiple fields for every def
 
 **Python | Batch | Bash | Windows | macOS**
 
-🔗 [View Project](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
+🔗 [View Project](https://github.com/vikas3333-singh/Advanced-IT-Troubleshooting-Utility)
 
 A cross-platform diagnostic and maintenance toolkit designed to simplify routine IT troubleshooting.
 
@@ -240,7 +242,7 @@ A cross-platform diagnostic and maintenance toolkit designed to simplify routine
 
 **HTML5 | JavaScript | Chart.js**
 
-🔗 [View Project](https://vikas3333-singh.github.io/it-asset-tracker/)
+🔗 [View Project](https://github.com/vikas3333-singh/it-asset-tracker)
 
 An interactive browser-based dashboard for visualizing enterprise hardware inventory and warranty lifecycles.
 
@@ -287,15 +289,15 @@ An enterprise deployment approach designed to streamline new-hire device provisi
 
 <br/>
 
-*Via Konverge Technologies | August 2022 – Present*
+*Via Konverge Technologies | August 2022 – 11 January 2026*
 
-- Manage 500+ Windows and macOS endpoints using Microsoft Intune, MECM, Jamf Pro, and Windows Autopilot.
-- Maintain 97%+ patch compliance across managed endpoints.
-- Deliver white-glove VIP support for Partners, Managing Directors, and Practice Leaders.
-- Support 30+ critical leadership events with 100% uptime.
-- Manage Microsoft Entra ID, MFA, and Conditional Access.
-- Maintain 95.4% SLA adherence through ServiceNow.
-- Automate routine support activities, deflecting 30% of L1 tickets.
+- Managed 500+ Windows and macOS endpoints using Microsoft Intune, MECM, Jamf Pro, and Windows Autopilot.
+- Maintained 97%+ patch compliance across managed endpoints.
+- Delivered white-glove VIP support for Partners, Managing Directors, and Practice Leaders.
+- Supported 30+ critical leadership events with 100% uptime.
+- Managed Microsoft Entra ID, MFA, and Conditional Access.
+- Maintained 95.4% SLA adherence through ServiceNow.
+- Automated routine support activities, deflecting 30% of L1 tickets.
 - Developed Python/Selenium-based TicketForge automation for vendor warranty claims.
 
 </details>
