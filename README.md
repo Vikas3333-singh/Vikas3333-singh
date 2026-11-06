@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Vikas_Singh-End_User_Support_Engineer-0A66C2?style=for-the-badge" alt="Vikas Singh — End User Support Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00A98F&height=190&section=header&text=Vikas%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Workplace%20Technology%20Engineer%20%7C%20Automation%20Specialist&descAlignY=78" width="100%" alt="Vikas Singh — Workplace Technology Engineer and Automation Specialist" />
 
-### L1/L2 Desktop & Service Desk | AV/VC
-
-*11+ years in enterprise end-user support · Delhi, India*
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=720&lines=11%2B+Years+in+Enterprise+IT;Endpoint+Engineering+%26+Modern+Workplace;Python+%26+PowerShell+Automation;VIP+Executive+Support" alt="Typing SVG" />
+</a>
 
 <p>
-  <a href="https://www.linkedin.com/in/vikassingh-eucengineer">
+  <a href="https://www.linkedin.com/in/vikas-singh-816657ab">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/vikas3333-singh">
@@ -24,12 +24,17 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=vikas3333-singh&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/vikas3333-singh?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA44F?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2EA44F?style=for-the-badge" alt="Open to collaboration" />
 </p>
 
-*L1/L2 desktop and service desk support, VIP white-glove support, AV/VC, and a strong bias toward automation and self-service.*
+📍 Gurugram, Haryana, India
+
+*Transforming enterprise IT operations through intelligent automation,
+modern endpoint management, and exceptional user experiences.*
 
 </div>
+
+---
 
 <a name="toc"></a>
 
@@ -38,7 +43,6 @@
 - [About Me](#about)
 - [Professional Impact](#impact)
 - [Tech Stack & Technologies](#stack)
-- [GitHub Statistics](#stats)
 - [Featured Projects](#projects)
 - [Professional Experience](#experience)
 - [Certifications](#certifications)
@@ -177,24 +181,6 @@ These are the outcomes I can stand behind, straight from the work itself:
   <img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white" alt="TeamViewer" />
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk" />
 </p>
-
----
-
-<a name="stats"></a>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vikas3333-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vikas3333-singh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
 
 ---
 
