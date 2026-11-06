@@ -2,9 +2,7 @@
 
 # Vikas Singh
 
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=End+User+Support+%26+Workplace+Engineer;11%2B+Years+%7C+L1%2FL2+%7C+VIP+Deskside+%7C+AV%2FVC;I+automate+the+ticket+I+solved+twice" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=720&lines=End+User+Support+%26+Workplace+Engineer;11%2B+Years+%7C+L1%2FL2+%7C+VIP+Deskside+%7C+AV%2FVC;I+automate+the+ticket+I+solved+twice" alt="Typing SVG" />
 
 📍 Delhi NCR, India &nbsp;|&nbsp; 🟢 **Open to work**
 
@@ -18,7 +16,7 @@
 
 ## About
 
-11+ years keeping enterprise endpoints running and executives unblocked, most recently on the **Boston Consulting Group (BCG)** account via Konverge Technologies. When a support task repeats, I script it: Python, Selenium and PowerShell have replaced hours of manual work with minutes.
+11+ years keeping enterprise endpoints running and executives unblocked, most recently on the **Boston Consulting Group (BCG)** account via Konverge Technologies. When a support task repeats, I script it: Python, Selenium and PowerShell have turned hours of manual work into minutes.
 
 **Looking for:** Senior Desktop / Endpoint Support, Workplace Services and VIP Deskside roles (L2–L3), Delhi NCR or remote.
 
@@ -28,8 +26,8 @@
 
 | Problem | Before | What I built | After |
 | --- | --- | --- | --- |
-| Lenovo warranty claims | 15–20 min per unit via web portal | **TicketForge** (Python + Selenium) | **<15 sec per unit**; a batch of 8–10 in under 2 min |
-| Laptop tune-ups | 35–45 min of manual checks | **AITU**, one-command diagnostic tool | **~4.5 min** |
+| Lenovo warranty claims | 15–20 min per unit via web portal | **TicketForge** (Python + Selenium) | **<15 sec per unit**; batch of 8–10 in under 2 min |
+| Laptop tune-ups | 35–45 min of manual checks | **AITU** one-command diagnostic tool | **~4.5 min** |
 | Device provisioning | ~2.5 hrs manual imaging | Intune + Windows Autopilot | **<20 min** engineer touch-time |
 | Patch compliance | Inconsistent patch levels | MECM and Intune update rings | **97%+** across 500+ machines |
 | Asset audits | 4 hrs/week in spreadsheets | HTML/JS dashboard | **<20 min** |
@@ -57,34 +55,33 @@
 ## Projects
 
 ### 1. [TicketForge: Lenovo warranty claim automation](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
-Headless Python + Selenium. Reads hardware inventory from Excel, logs into the Lenovo portal, submits each claim and writes confirmation numbers back to the sheet.
-**Result:** ~3 hours of morning work down to **1 min 42 sec**.
+Cut ~3 hours of morning claim entry to **1 min 42 sec**. Headless Python + Selenium reads hardware inventory from Excel, submits each claim on the Lenovo portal and writes confirmation numbers back to the sheet.
 
 ### 2. [AITU: Advanced IT Troubleshooting Utility](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
-Windows (`.bat`) and macOS/Linux (`.sh`) maintenance scripts covering SFC, DISM, network resets and cache clearing, with silent Intune-compatible flags and a non-destructive dry-run mode.
-**Result:** cleanup time **40 min → 4.5 min**.
+Cut laptop cleanup from **40 min to 4.5 min**. Windows (`.bat`) and macOS/Linux (`.sh`) scripts run SFC, DISM, network resets and cache clearing, with silent Intune-compatible flags and a non-destructive dry-run mode.
 
 ### 3. [IT Asset Tracker](https://vikas3333-singh.github.io/it-asset-tracker/)
-HTML5 + JavaScript + Chart.js dashboard for device status and warranty lifecycle across 500+ assets.
-**Result:** weekly audit **4 hrs → under 20 min**.
+Cut weekly audits from **4 hrs to under 20 min**. An HTML5 + JavaScript + Chart.js dashboard tracks device status and warranty lifecycle across 500+ assets.
+
+> Demos use dummy data only.
 
 ---
 
 ## Experience
 
-**System Analyst, Workplace Services** — Boston Consulting Group (via Konverge Technologies), Gurugram · *Aug 2022 – Jan 2026*
-- Supported 500+ mixed Windows/macOS endpoints; sustained 97%+ patch compliance.
-- White-glove VIP support for Partners and Managing Directors across 30+ leadership events.
-- Worked with Entra ID, MFA and Conditional Access policies on a Zero Trust-aligned estate.
-- Held 95.4% SLA adherence on ServiceNow; automation deflected ~30% of L1 tickets.
+**System Analyst, Workplace Services** · Boston Consulting Group (via Konverge Technologies), Gurugram · *Aug 2022 – Jan 2026*
+- Sustained **97%+ patch compliance** across 500+ Windows/macOS endpoints using Intune, MECM and Jamf Pro.
+- Delivered **zero downtime across 30+ leadership events** through pre-event testing for Partners and Managing Directors.
+- Held **95.4% SLA adherence** on ServiceNow while automation deflected **~30% of L1 tickets**.
+- Supported Entra ID, MFA and Conditional Access policies under Zero Trust principles.
 
-**Technical Support Engineer** — Puthur Infotech, Patna · *Mar 2018 – Aug 2022*
-- Led Windows 10 migration for 180+ devices using SCCM and PXE boot.
-- Mentored 6 support engineers on ITIL practice; first-contact resolution up 22%.
-- Kept 200+ hardware assets at 96% audit accuracy.
+**Technical Support Engineer** · Puthur Infotech, Patna · *Mar 2018 – Aug 2022*
+- Migrated **180+ mission-critical devices** to Windows 10 using SCCM and PXE boot.
+- Raised first-contact resolution **22%** by mentoring 6 support engineers on ITIL practice.
+- Kept **96% audit accuracy** on 200+ hardware assets.
 
-**Desktop Support Engineer** — Rural Electrification Corporation (via Atlanta Systems), New Delhi · *May 2015 – Mar 2018*
-- Tier 1/2 support for 200+ users across HQ and 15+ regional branches (VPN, LAN, Exchange) under government compliance standards.
+**Desktop Support Engineer** · Rural Electrification Corporation (via Atlanta Systems), New Delhi · *May 2015 – Mar 2018*
+- Supported **200+ users** across HQ and 15+ regional branches, resolving VPN, LAN and Exchange issues within government compliance standards.
 
 ---
 
@@ -96,22 +93,20 @@ HTML5 + JavaScript + Chart.js dashboard for device status and warranty lifecycle
 
 ---
 
+<!--
+OPTIONAL: uncomment only if your contribution history looks strong.
+
 ## GitHub
 
 <div align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="160" src="https://streak-stats.demolab.com/?user=vikas3333-singh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
 </div>
-
----
+-->
 
 <div align="center">
 
 **If you need someone who keeps endpoints secure, executives unblocked and tedious work automated, let's talk.**
-
-<img src="https://komarev.com/ghpvc/?username=vikas3333-singh&label=Profile+views&color=0A66C2&style=flat-square" alt="Profile views" />
 
 <sub>Last updated: November 2026</sub>
 
