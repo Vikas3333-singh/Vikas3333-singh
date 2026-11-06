@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00A98F&height=190&section=header&text=Vikas%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=End%20User%20Support%20Engineer%20%7C%20L1%2FL2%20Desktop%20%26%20Service%20Desk%20%7C%20AV%2FVC&descAlignY=78" width="100%" alt="Vikas Singh — End User Support Engineer, L1/L2 Desktop and Service Desk, AV/VC" />
+<img src="https://img.shields.io/badge/Vikas_Singh-End_User_Support_Engineer-0A66C2?style=for-the-badge" alt="Vikas Singh — End User Support Engineer" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=760&lines=11%2B+Years+in+End+User+Support;L1%2FL2+Desktop+%26+Service+Desk;VIP+%26+Executive+Support;AV%2FVC+%26+Conference+Rooms;Automation+with+Python+%26+PowerShell" alt="Typing SVG" />
-</a>
+### L1/L2 Desktop & Service Desk | AV/VC
+
+*11+ years in enterprise end-user support · Delhi, India*
 
 <p>
   <a href="https://www.linkedin.com/in/vikassingh-eucengineer">
@@ -27,13 +27,9 @@
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA44F?style=for-the-badge" alt="Open to opportunities" />
 </p>
 
-📍 Delhi, India
-
 *L1/L2 desktop and service desk support, VIP white-glove support, AV/VC, and a strong bias toward automation and self-service.*
 
 </div>
-
----
 
 <a name="toc"></a>
 
