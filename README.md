@@ -3,7 +3,7 @@
 
 # Hi, I'm Vikas Singh 👋
 
-### Senior Workplace Technology Engineer | IT Operations | Automation Specialist
+### Workplace Technology Engineer | IT Operations | Automation Specialist
 
 **11+ Years of Experience | Enterprise IT | Endpoint Engineering | Python & PowerShell Automation**
 
