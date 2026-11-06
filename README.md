@@ -184,6 +184,24 @@ These are the outcomes I can stand behind, straight from the work itself:
 
 ---
 
+<a name="stats"></a>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vikas3333-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vikas3333-singh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
 <a name="projects"></a>
 
 ## 💡 Featured Projects
@@ -192,7 +210,7 @@ These are the outcomes I can stand behind, straight from the work itself:
 
 **Python | Selenium | Excel Automation**
 
-🔗 [View Project](https://github.com/vikas3333-singh/Lenovo-E-Ticket-Automation)
+🔗 [View Project](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
 
 An automated batch-processing solution for Lenovo hardware warranty claims.
 
@@ -217,7 +235,7 @@ Manual warranty claim submissions required filling multiple fields for every def
 
 **Python | Batch | Bash | Windows | macOS**
 
-🔗 [View Project](https://github.com/vikas3333-singh/Advanced-IT-Troubleshooting-Utility)
+🔗 [View Project](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
 
 A cross-platform diagnostic and maintenance toolkit designed to simplify routine IT troubleshooting.
 
@@ -240,7 +258,7 @@ A cross-platform diagnostic and maintenance toolkit designed to simplify routine
 
 **HTML5 | JavaScript | Chart.js**
 
-🔗 [View Project](https://github.com/vikas3333-singh/it-asset-tracker)
+🔗 [View Project](https://vikas3333-singh.github.io/it-asset-tracker/)
 
 An interactive browser-based dashboard for visualizing enterprise hardware inventory and warranty lifecycles.
 
@@ -351,35 +369,15 @@ An enterprise deployment approach designed to streamline new-hire device provisi
 
 <a name="certifications"></a>
 
-## 🏆 Certifications & Training
+## 🏆 Certifications
 
-| Certification / Course | Issuing Organization | Year |
-|---|---|---|
-| ITIL 4 Foundation | Simplilearn | 2025 |
-| Microsoft Copilot Essentials | LinkedIn Learning | 2026 |
-| Microsoft 365 Administration (course) | Udemy | 2026 |
-| ServiceNow Platform User (course) | LinkedIn Learning | 2024 |
-| Microsoft Azure Fundamentals (AZ-900) | — | In progress |
-
----
-
-<a name="education"></a>
-
-## 🎓 Education
-
-| Qualification | Institution |
+| Certification | Issuing Organization |
 |---|---|
-| B.A. | Jai Prakash University, Patna |
-| Diploma in Hardware & Networking | Jetking, New Delhi |
-
----
-
-<a name="languages"></a>
-
-## 🗣️ Languages
-
-- **English** — Professional
-- **Hindi** — Native
+| ITIL 4 Foundation in IT Service Management | PeopleCert |
+| macOS Support & Administration Essentials | Apple / LinkedIn Learning |
+| Microsoft Copilot & AI Productivity Essentials | Microsoft Press |
+| Python for IT Operations & Automation | Google / Coursera |
+| Generative AI: Enterprise Prompt Engineering | LinkedIn Learning |
 
 ---
 
@@ -387,12 +385,14 @@ An enterprise deployment approach designed to streamline new-hire device provisi
 
 ## 📚 Current Learning Focus
 
-- ☁️ Microsoft Azure Fundamentals (AZ-900) — in progress.
-- 🧑‍💼 Microsoft 365 administration in depth.
-- ⚙️ Endpoint management with Intune and Autopilot.
-- 🐍 Python and PowerShell automation for service desk work.
-- 🎥 AV/VC — Teams Rooms, Zoom Rooms, and Poly.
-- 📊 ServiceNow platform skills.
+Continuously improving my technical capabilities in:
+
+- 🤖 Generative AI and enterprise AI productivity.
+- 🐍 Advanced Python automation for IT operations.
+- ☁️ Modern endpoint management and Intune architecture.
+- 🔐 Zero Trust security and identity management.
+- ⚙️ Intelligent IT workflow automation.
+- 📊 Operational analytics and infrastructure optimization.
 
 ---
 
@@ -400,16 +400,16 @@ An enterprise deployment approach designed to streamline new-hire device provisi
 
 ## 🌟 Core Strengths
 
-- End User & VIP Support
-- Deskside and Service Desk L1–L2
-- AV/VC and Conference Room Support
-- Endpoint Management (Autopilot, Intune, SCCM)
-- Identity & Microsoft 365 Administration
-- ITSM & Asset Management
-- Networking & Remote Support
-- Automation (Python, PowerShell, Selenium)
-- Documentation and SOPs
-- Vendor Coordination
+- Enterprise Workplace Technology
+- Endpoint Engineering & Management
+- IT Infrastructure Operations
+- Python & PowerShell Automation
+- VIP & Executive Support
+- ITIL & Service Delivery
+- Incident & Problem Management
+- Identity & Access Management
+- Technical Mentoring & Leadership
+- Process Optimization
 
 ---
 
@@ -417,10 +417,10 @@ An enterprise deployment approach designed to streamline new-hire device provisi
 
 ## 🤝 Let's Connect
 
-I'm open to End User Support, Desktop Support, Service Desk, and VIP/Executive Support roles. Always happy to connect with IT teams, service desk leads, and automation folks.
+I'm always interested in connecting with technology professionals, IT leaders, automation enthusiasts, and organizations working on modern workplace technology.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikassingh-eucengineer">
+  <a href="https://www.linkedin.com/in/vikas-singh-816657ab">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Let's Connect" />
   </a>
   <a href="https://github.com/vikas3333-singh">
@@ -440,10 +440,11 @@ I'm open to End User Support, Desktop Support, Service Desk, and VIP/Executive S
 
 <div align="center">
 
-### 💬 "Fix it properly. Document it clearly. Automate the repetitive."
+### 💬 "Automate what you can. Optimize what you can't. Deliver excellence in everything."
 
 ⭐ Thanks for visiting my GitHub profile!
 
 [⬆ Back to Top](#toc)
 
+</div>
 </div>
