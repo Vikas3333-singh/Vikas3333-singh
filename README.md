@@ -171,7 +171,7 @@ End User Support Engineer with **11+ years of experience** in L1/L2 desktop, ser
 
 **Python · Selenium · Excel Automation**
 
-[💻 Source Code](https://github.com/vikas3333-singh/Lenovo-E-Ticket-Automation) · [🌐 Live Demo](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
+[💻 Source Code](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/) · [🌐 Live Demo](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
 
 Automated batch processing for Lenovo hardware warranty claims.
 
@@ -185,7 +185,7 @@ Automated batch processing for Lenovo hardware warranty claims.
 
 **Python · Batch · Bash · Windows · macOS**
 
-[💻 Source Code](https://github.com/vikas3333-singh/Advanced-IT-Troubleshooting-Utility) · [🌐 Live Demo](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
+[💻 Source Code](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/) · [🌐 Live Demo](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
 
 Cross-platform diagnostic and maintenance toolkit for routine IT troubleshooting.
 
@@ -198,11 +198,11 @@ Cross-platform diagnostic and maintenance toolkit for routine IT troubleshooting
 
 **HTML5 · JavaScript · Chart.js**
 
-[💻 Source Code](https://github.com/vikas3333-singh/it-asset-tracker) · [🌐 Live Demo](https://vikas3333-singh.github.io/it-asset-tracker/)
+[💻 Source Code](https://vikas3333-singh.github.io/it-asset-tracker/) · [🌐 Live Demo](https://vikas3333-singh.github.io/it-asset-tracker/)
 
 Browser-based dashboard for enterprise hardware inventory and warranty lifecycle.
 
-**Features:** Inventory visualization, device status tracking, warranty monitoring, interactive charts.
+**Features:** Inventory visualisation, device status tracking, warranty monitoring, interactive charts.
 **Impact:** Supported **500+** distributed assets; weekly audit overhead reduced from 4 hours to under 20 min.
 
 ---
@@ -211,43 +211,13 @@ Browser-based dashboard for enterprise hardware inventory and warranty lifecycle
 
 **Microsoft Intune · Windows Autopilot · Entra ID**
 
-[💻 Source Code](https://github.com/vikas3333-singh/zero-touch-autopilot) *(add your repo link if different)*
+[💻 Source Code] *(add your repo link if different)*
 
 Enterprise provisioning workflow for new-hire device deployment.
 
 **Key contributions:** Autopilot provisioning workflows, Intune configuration policies, drop-ship to end users, streamlined onboarding.
 **Impact:** Engineer touch-time reduced to **under 20 minutes**; simplified Day-1 onboarding.
 
----
-
-### 5. 🌱 Open Source Contributions
-
-**Docs · Bug fixes · Test coverage**
-
-*(Replace this block once you land your first merged PR — see the [Open Source](#oss) section.)*
-
----
-
-### 6. 📌 [Project 6 — Most-Starred or Recent Active Repo]
-
-**Add the tech stack here**
-
-[💻 Source Code](https://github.com/vikas3333-singh/REPLACE-REPO) · [🌐 Live Demo](REPLACE-URL)
-
-One-to-two-sentence description of what this project does.
-
-**Impact:** One or two quantified outcomes (time saved, users supported, adoption).
-
----
-
-<a name="oss"></a>
-
-## 🌱 Open Source
-
-- **`<project-name>`** — [PR #123](https://github.com/ORG/REPO/pull/123): `<one-line summary of the change>`
-- **`<project-name>`** — [Issue #456](https://github.com/ORG/REPO/issues/456): reported `<bug / docs gap>` and verified the fix.
-
-*(Even one merged docs fix or a well-scoped bug report counts here. If you don't have one yet, spend an evening on a docs PR before you pin repos.)*
 
 ---
 
@@ -257,9 +227,9 @@ One-to-two-sentence description of what this project does.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas3333-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vikas3333-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
@@ -368,7 +338,16 @@ One-to-two-sentence description of what this project does.
 
 ## 🌟 Core Strengths
 
-Enterprise Workplace Technology · Endpoint Engineering · IT Infrastructure Operations · Python & PowerShell Automation · VIP & Executive Support · ITIL & Service Delivery · Incident & Problem Management · Identity & Access Management · Process Optimization
+- End User & VIP Support
+- Deskside and Service Desk L1–L2
+- AV/VC and Conference Room Support
+- Endpoint Management (Autopilot, Intune, SCCM)
+- Identity & Microsoft 365 Administration
+- ITSM & Asset Management
+- Networking & Remote Support
+- Automation (Python, PowerShell, Selenium)
+- Documentation and SOPs
+- Vendor Coordination
 
 ---
 
@@ -376,10 +355,10 @@ Enterprise Workplace Technology · Endpoint Engineering · IT Infrastructure Ope
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with technology professionals, IT leaders, automation enthusiasts, and teams working on modern workplace technology.
+I'm open to End User Support, Desktop Support, Service Desk, and VIP/Executive Support roles. Always happy to connect with IT teams, service desk leads, and automation folks.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikas-singh-816657ab">
+  <a href="https://www.linkedin.com/in/vikassingh-eucengineer">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Let's Connect" />
   </a>
   <a href="https://github.com/vikas3333-singh">
@@ -393,11 +372,13 @@ I'm always interested in connecting with technology professionals, IT leaders, a
   </a>
 </p>
 
+<!-- Add your YouTube channel URL and badge here when available. -->
+
 ---
 
 <div align="center">
 
-### 💬 "Automate what you can. Optimize what you can't. Deliver excellence in everything."
+### 💬 "Fix it properly. Document it clearly. Automate the repetitive."
 
 ⭐ Thanks for visiting my GitHub profile!
 
