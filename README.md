@@ -1,166 +1,118 @@
 <div align="center">
 
-# Hi, I'm Vikas Singh 👋
-### 🚀 End User Support & Workplace Specialist | 11+ Years Experience
+# Vikas Singh
 
-*Transforming IT Operations through Automation, VIP White-Glove Support & Modern Endpoint Management.*
-
-<a href="https://www.linkedin.com/in/vikas-singh-816657ab" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
- 
-<a href="mailto:vikaskumarsingh333@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
- 
-<a href="https://vikas3333-singh.github.io/vikas-singh.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=End+User+Support+%26+Workplace+Engineer;11%2B+Years+%7C+L1%2FL2+%7C+VIP+Deskside+%7C+AV%2FVC;I+automate+the+ticket+I+solved+twice" alt="Typing SVG" />
 </a>
 
-<br><br>
+📍 Delhi NCR, India &nbsp;|&nbsp; 🟢 **Open to work**
 
-📍 **Gurugram, Haryana, India**  
-🎯 **Targeting Roles:** Workplace Services Lead • Deskside & VIP Support Specialist • Endpoint Operations Manager
+<a href="https://www.linkedin.com/in/vikas-singh-816657ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vikaskumarsingh333@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://vikas3333-singh.github.io/vikas-singh.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+</div>
 
 ---
 
-```text
-  ___ _____   _____                        _ 
- |_ _|_   _| | ____|_  ___ __   ___ _ __ | |_ 
-  | |  | |   |  _| \ \/ / '_ \ / _ \ '__|| __|
-  | |  | |   | |___ >  <| |_) |  __/ |   | |_ 
- |___| |_|   |_____/_/\_\ .__/ \___|_|    \__|
-                         |_|
----
+## About
 
-## ⚡ Executive Summary
+11+ years keeping enterprise endpoints running and executives unblocked, most recently on the **Boston Consulting Group (BCG)** account via Konverge Technologies. When a support task repeats, I script it: Python, Selenium and PowerShell have replaced hours of manual work with minutes.
 
-With over **11+ years in enterprise IT operations**, I bridge the gap between complex infrastructure and seamless end-user productivity. Having managed critical endpoints for global consultancies like **Boston Consulting Group (BCG)**, my philosophy focuses on three pillars:
-
-> ⚙️ **Keep systems secure**  |  🛠️ **Keep users frictionless**  |  🤖 **Automate the redundant**
-
-When a routine support process repeats, I build Python scripts or PowerShell workflows to eliminate the manual bottleneck entirely.
+**Looking for:** Senior Desktop / Endpoint Support, Workplace Services and VIP Deskside roles (L2–L3), Delhi NCR or remote.
 
 ---
 
-## 📈 Impact at a Glance
+## Impact
 
-| Focus Area | Legacy Manual Approach | Innovative Solution | Real-World Impact |
+| Problem | Before | What I built | After |
 | --- | --- | --- | --- |
-| **Lenovo Warranty Claims** | 15–20 mins per unit via web portal | Built **TicketForge** (Python + Selenium) | ⚡ **<15 sec/unit** (Batch process in <2 min) |
-| **Routine Laptop Tune-ups** | 35–45 mins of manual checks | Created **AITU** 1-click cross-platform tool | ⏱️ **Reduced to 4.5 mins** with zero error |
-| **Device Provisioning** | 2.5 hours of manual imaging | Deployed **Intune & Windows Autopilot** | 🚀 **<20 mins engineer touch-time** |
-| **Patch Management** | Inconsistent patch levels | Standardized MECM & Intune update rings | 🔒 **97%+ compliance** across 500+ machines |
-| **Asset Tracking** | 4 hrs/week auditing spreadsheets | Developed HTML/JS Browser Dashboard | 📊 **Audits cut down to <20 mins** |
-| **VIP Executive Support** | On-demand troubleshooting | Pre-flight testing & proactive checks | 🏆 **100% uptime** across 30+ Partner events |
+| Lenovo warranty claims | 15–20 min per unit via web portal | **TicketForge** (Python + Selenium) | **<15 sec per unit**; a batch of 8–10 in under 2 min |
+| Laptop tune-ups | 35–45 min of manual checks | **AITU**, one-command diagnostic tool | **~4.5 min** |
+| Device provisioning | ~2.5 hrs manual imaging | Intune + Windows Autopilot | **<20 min** engineer touch-time |
+| Patch compliance | Inconsistent patch levels | MECM and Intune update rings | **97%+** across 500+ machines |
+| Asset audits | 4 hrs/week in spreadsheets | HTML/JS dashboard | **<20 min** |
+| VIP and leadership events | Reactive troubleshooting | Pre-event testing and checks | **Zero downtime across 30+ events** |
 
 ---
 
-## 🛠️ Tech Stack & Core Competencies
+## Stack
 
-```text
- 💻 Endpoint Ops   : Microsoft Intune | MECM/SCCM | Jamf Pro | Windows Autopilot
- 🔐 Identity & Cloud: Entra ID (Azure AD) | Microsoft 365 Admin | MFA | Conditional Access
- ⚙️ Automation     : Python (Selenium, openpyxl) | PowerShell | Bash | Batch
- 🎟️ ITSM & Process : ServiceNow | ITIL 4 Foundation | SLA Management | Asset Mgmt
- 🖥️ Hardware & OS  : Windows 10/11 | macOS | Disassembly/Repairs | AV/Meeting Rooms
-
-```
-
----
-
-## 💡 Featured Automation Projects
-
-### 🛠️ 1. [Lenovo-E-Ticket-Automation (TicketForge)](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
-
-> *Automated Batch Warranty Claims Processing*
-
-* **The Problem:** Filling 15+ form fields manually per broken device ate 2.5–3 hours every morning for 8–10 units.
-* **The Solution:** Developed a headless Python + Selenium automation that pulls hardware inventory from Excel, logs into the Lenovo Portal, executes claim forms, and writes confirmation numbers back to Excel.
-* **The Impact:** Processing time dropped from **3 hours to 1 minute 42 seconds**, accelerating dispatch times drastically.
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SCCM](https://img.shields.io/badge/MECM%2FSCCM-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Autopilot](https://img.shields.io/badge/Windows_Autopilot-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-### 🔧 2. [Advanced IT Troubleshooting Utility (AITU)](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
+## Projects
 
-> *Cross-Platform One-Command Diagnostic Suite*
+### 1. [TicketForge: Lenovo warranty claim automation](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
+Headless Python + Selenium. Reads hardware inventory from Excel, logs into the Lenovo portal, submits each claim and writes confirmation numbers back to the sheet.
+**Result:** ~3 hours of morning work down to **1 min 42 sec**.
 
-* **The Problem:** L1/L2 technicians spent 35–45 minutes manually executing SFC, DISM, network resets, and cache clearings.
-* **The Solution:** Created CLI utilities (`windows_maintenance_final.bat` & `maintenance.sh`) featuring silent Intune flags, non-destructive dry runs, and natural-language repair scripts.
-* **The Impact:** Health cleanup time fell from **40 mins to 4.5 mins**, deflecting **74% of L1 escalations**.
+### 2. [AITU: Advanced IT Troubleshooting Utility](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
+Windows (`.bat`) and macOS/Linux (`.sh`) maintenance scripts covering SFC, DISM, network resets and cache clearing, with silent Intune-compatible flags and a non-destructive dry-run mode.
+**Result:** cleanup time **40 min → 4.5 min**.
 
----
-
-### ☁️ 3. Hands-Off Zero-Touch Deployment
-
-> *Enterprise Autopilot & Intune Architecture*
-
-* **The Problem:** Physical handling and imaging of new hire laptops created operational backlogs in hybrid environments.
-* **The Solution:** Designed zero-touch Windows Autopilot paired with Intune policies, enabling drop-ship delivery directly to end users with automated onboarding.
-* **The Impact:** Zero technician touch required; users self-provision within minutes on Day 1.
+### 3. [IT Asset Tracker](https://vikas3333-singh.github.io/it-asset-tracker/)
+HTML5 + JavaScript + Chart.js dashboard for device status and warranty lifecycle across 500+ assets.
+**Result:** weekly audit **4 hrs → under 20 min**.
 
 ---
 
-### 📊 4. [IT Asset Tracker & Hardware Dashboard](https://vikas3333-singh.github.io/it-asset-tracker/)
+## Experience
 
-> *Visual Hardware Analytics Interface*
+**System Analyst, Workplace Services** — Boston Consulting Group (via Konverge Technologies), Gurugram · *Aug 2022 – Jan 2026*
+- Supported 500+ mixed Windows/macOS endpoints; sustained 97%+ patch compliance.
+- White-glove VIP support for Partners and Managing Directors across 30+ leadership events.
+- Worked with Entra ID, MFA and Conditional Access policies on a Zero Trust-aligned estate.
+- Held 95.4% SLA adherence on ServiceNow; automation deflected ~30% of L1 tickets.
 
-* **The Problem:** Tracking 500+ distributed hardware assets across spreadsheets caused data rot and lengthy audits.
-* **The Solution:** Built an interactive web-based dashboard using HTML5, JavaScript, and Chart.js for real-time visualization of device status and warranty lifecycles.
-* **The Impact:** Reduced weekly audit overhead from **4 hours to under 20 minutes**.
+**Technical Support Engineer** — Puthur Infotech, Patna · *Mar 2018 – Aug 2022*
+- Led Windows 10 migration for 180+ devices using SCCM and PXE boot.
+- Mentored 6 support engineers on ITIL practice; first-contact resolution up 22%.
+- Kept 200+ hardware assets at 96% audit accuracy.
 
----
-
-## 💼 Professional Experience
-
-```text
-Boston Consulting Group (BCG) — via Konverge Technologies | Gurugram, India
-📍 System Analyst - Workplace Services (Aug 2022 – Present)
- ├─ Managing mixed Windows & macOS fleets (500+ endpoints) via Intune, MECM, Jamf Pro & Autopilot with 97%+ patch compliance.
- ├─ Providing white-glove VIP support for Partners, Managing Directors & Practice Leaders across 30+ critical leadership events.
- ├─ Managing Entra ID (Azure AD), Conditional Access, and MFA policies following Zero Trust principles.
- ├─ Maintaining 95.4% SLA adherence on ServiceNow while automating routine fixes to deflect 30% of L1 tickets.
- └─ Developed Python/Selenium automation tools ('TicketForge') to streamline bulk vendor warranty claims.
-
-Puthur Infotech Pvt. Ltd. | Patna, India
-📍 Technical Support Engineer (Mar 2018 – Aug 2022)
- ├─ Spearheaded Windows 10 enterprise migration for 180+ mission-critical devices using SCCM and PXE boot.
- ├─ Mentored 6 support engineers on ITIL processes, increasing First Contact Resolution (FCR) by 22%.
- └─ Maintained physical inventory control for 200+ hardware assets with 96% audit accuracy.
-
-Rural Electrification Corporation (REC) — via Atlanta Systems | New Delhi, India
-📍 Desktop Support Engineer (May 2015 – Mar 2018)
- ├─ Delivered Tier 1/2 support for 200+ users across REC Headquarters and 15+ remote regional branch offices.
- └─ Resolved VPN, LAN, and Exchange email issues adhering strictly to government compliance standards.
-
-```
+**Desktop Support Engineer** — Rural Electrification Corporation (via Atlanta Systems), New Delhi · *May 2015 – Mar 2018*
+- Tier 1/2 support for 200+ users across HQ and 15+ regional branches (VPN, LAN, Exchange) under government compliance standards.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-* 🏅 **ITIL 4 Foundation in IT Service Management** — *PeopleCert*
-* 🍎 **macOS Support & Administration Essentials** — *Apple / LinkedIn Learning*
-* 🤖 **Microsoft Copilot & AI Productivity Essentials** — *Microsoft Press*
-* 🐍 **Python for IT Operations & Automation** — *Google / Coursera*
-* 💡 **Generative AI: Enterprise Prompt Engineering** — *LinkedIn Learning*
+- ✅ **ITIL 4 Foundation**, PeopleCert
+- 🔄 **Microsoft AZ-900 (Azure Fundamentals)**, in progress
+- Also completed: macOS Support Essentials (Apple / LinkedIn Learning), Python for IT Operations (Google / Coursera), Microsoft Copilot & AI Productivity Essentials
 
 ---
 
-## 🤝 Let's Connect
+## GitHub
 
-[
+<div align="center">
 
- 
-[
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="160" src="https://streak-stats.demolab.com/?user=vikas3333-singh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
- 
-[
+</div>
 
+---
 
+<div align="center">
 
-*If you're looking for an experienced IT leader who can secure endpoints, deliver white-glove VIP support, and automate tedious workloads—let's talk!*
+**If you need someone who keeps endpoints secure, executives unblocked and tedious work automated, let's talk.**
 
-```
+<img src="https://komarev.com/ghpvc/?username=vikas3333-singh&label=Profile+views&color=0A66C2&style=flat-square" alt="Profile views" />
 
-```
+<sub>Last updated: November 2026</sub>
+
+</div>
