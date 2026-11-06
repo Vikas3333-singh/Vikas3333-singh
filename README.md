@@ -180,14 +180,6 @@ Here are some examples of the improvements I've delivered:
 
 <img src="https://streak-stats.demolab.com?user=vikas3333-singh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vikas3333-singh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas3333-singh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
-
 </div>
 
 ---
@@ -195,22 +187,6 @@ Here are some examples of the improvements I've delivered:
 <a name="projects"></a>
 
 ## 💡 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/vikas3333-singh/Lenovo-E-Ticket-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikas3333-singh&repo=Lenovo-E-Ticket-Automation&theme=tokyonight&hide_border=true" alt="TicketForge repository" />
-</a>
-
-<a href="https://github.com/vikas3333-singh/Advanced-IT-Troubleshooting-Utility">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikas3333-singh&repo=Advanced-IT-Troubleshooting-Utility&theme=tokyonight&hide_border=true" alt="Advanced IT Troubleshooting Utility repository" />
-</a>
-
-<a href="https://github.com/vikas3333-singh/it-asset-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikas3333-singh&repo=it-asset-tracker&theme=tokyonight&hide_border=true" alt="IT Asset Tracker repository" />
-</a>
-
-</div>
 
 ### 1. 🚀 TicketForge – Lenovo E-Ticket Automation
 
