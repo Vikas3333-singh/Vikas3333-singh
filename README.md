@@ -58,22 +58,38 @@ modern endpoint management, and exceptional user experiences.*
 
 End User Support Engineer with **11+ years of experience** in L1/L2 desktop, service desk, and field support across Windows, macOS, and enterprise environments.
 
-- **VIP & end-user support** — primary IT contact for 15+ senior Partners and Managing Directors at BCG; 95%+ SLA performance on ServiceNow.
-- **Endpoint management** — Windows Autopilot, patch management, Windows 10/11, macOS, corporate imaging; working knowledge of Intune and SCCM.
-- **Identity & Microsoft 365** — Active Directory, Entra ID, Exchange Online, Teams, SharePoint, OneDrive, MFA, SSO.
-- **AV/VC** — Microsoft Teams Rooms, Zoom Rooms, Poly Studio/Lens across 10+ conference rooms; live event support.
-- **Automation** — PowerShell, Python, Selenium, batch scripting. Built a Windows repair tool adopted into the BCG custom image and a Lenovo ticket automation that cut ~3 hours of daily work to under 2 minutes.
-- **ITSM & asset lifecycle** — ServiceNow (Incident, Request, Asset), ITIL 4, procurement, AMC, reporting for 300+ assets.
+Hands-on with **Active Directory, Microsoft 365 (Outlook, Teams, Exchange Online), Windows Autopilot, and ServiceNow**, with working knowledge of Intune and SCCM imaging, plus L1 network troubleshooting (TCP/IP, LAN/WAN, Wi-Fi) and conference-room AV/VC.
 
-> Fix it properly. Document it clearly. Automate the repetitive.
+Spent **3+ years on the Boston Consulting Group (BCG) account** as the primary IT contact for **15+ senior Partners and Managing Directors**, with commendations from 3 of them. Held **95%+ SLA performance** while also supporting conference-room AV/VC.
+
+Strong focus on automation and self-service: built a Windows troubleshooting tool that the BCG Windows team adopted, and a Lenovo ticket automation tool that cuts repetitive portal work.
+
+### Quick Facts
 
 | | |
 |---|---|
 | **Role** | End User Support Engineer — L1/L2 Desktop & Service Desk, AV/VC |
 | **Most Recent Role** | Technical Support Specialist, Femmella Fashion (Jan 2026 – Aug 2026) |
-| **Status** | Open to new opportunities |
-| **Location** | Gurugram, Haryana, India |
+| **Prior Role** | System Analyst, Konverge Technologies (Client: BCG), Aug 2022 – Jan 2026 |
+| **Experience** | 11+ years in end-user and service desk support |
+| **Location** | Delhi, India |
+| **Focus Areas** | VIP support, desktop & service desk L1–L2, AV/VC, endpoint management, automation |
 | **Languages** | English (Professional), Hindi (Native) |
+
+### What I Bring to the Table
+
+- 🖥️ **End User & VIP Support:** Deskside and service desk L1–L2, white-glove support for senior leadership, onboarding/offboarding.
+- 🎥 **AV/VC:** Microsoft Teams Rooms, Zoom Rooms, Poly Studio/Poly Lens, conference-room setup, and live event support.
+- ⚙️ **Endpoint Management:** Windows Autopilot, patch management, Windows 10/11, macOS, corporate imaging, working knowledge of Intune and SCCM.
+- 🔐 **Identity & Microsoft 365:** Active Directory, Entra ID, Exchange Online, Teams, SharePoint, OneDrive, MFA, SSO.
+- 📊 **ITSM & Asset Management:** ServiceNow (Incident, Request, Asset), ManageEngine, ITIL 4, asset lifecycle, Excel reporting, procurement/AMC.
+- 🌐 **Networking & Remote Support:** TCP/IP, DNS, DHCP, LAN/WAN, Wi-Fi, VPN, Windows Server (L1), RDP, TeamViewer, AnyDesk.
+- 🤖 **Automation:** PowerShell, Python, Selenium, Windows batch scripting, Excel.
+- 📝 **Documentation & Enablement:** SOPs and Knowledge Base articles that standardize troubleshooting across teams.
+
+**My philosophy:**
+
+> Fix it properly. Document it clearly. Automate the repetitive.
 
 ---
 
@@ -81,15 +97,18 @@ End User Support Engineer with **11+ years of experience** in L1/L2 desktop, ser
 
 ## 🚀 Professional Impact
 
+These are the outcomes I can stand behind, straight from the work itself:
+
 | Achievement | Business Impact |
 |---|---|
 | VIP support at BCG | Primary IT contact for 15+ senior Partners and Managing Directors; commendations from 3 |
-| SLA performance at BCG | 95%+ of ServiceNow incidents and requests resolved within SLA |
-| Self-service Windows repair tool | Approved after live demo and added to the BCG custom Windows image |
-| Lenovo E-Ticket Automation | Cut ~3 hours of daily bulk ticket creation to 1 min 42 sec |
-| Conference-room AV/VC | Maintained 10+ rooms; supported 20+ Town Halls, Board Meetings, and Offsites |
+| SLA performance at BCG | 95%+ of ServiceNow incidents and service requests resolved within SLA |
+| Self-service Windows repair tool | Approved by management after a live demo and added to the BCG custom Windows image |
+| Lenovo E-Ticket Automation | Bulk ticket creation used for 30+ Lenovo support tickets per month |
+| Conference-room AV/VC | Maintained 10+ rooms and supported 20+ Town Halls, Board Meetings, and Offsites |
 | Patch management | Tracked and remediated missing or failed Windows updates across managed devices |
-| IT asset lifecycle | Managed procurement, assignment, return, and retirement for 300+ assets in ServiceNow |
+| IT asset lifecycle | Managed procurement, assignment, return, and retirement for 300+ IT assets in ServiceNow |
+| Team enablement | Wrote SOPs and Knowledge Base articles to standardize troubleshooting |
 
 ---
 
