@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00A98F&height=190&section=header&text=Vikas%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Workplace%20Technology%20Engineer%20%7C%20Automation%20Specialist&descAlignY=78" width="100%" alt="Vikas Singh — Workplace Technology Engineer and Automation Specialist" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00A98F&height=190&section=header&text=Vikas%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=End%20User%20Support%20Engineer%20%7C%20L1%2FL2%20Desktop%20%26%20Service%20Desk%20%7C%20AV%2FVC&descAlignY=78" width="100%" alt="Vikas Singh — End User Support Engineer, L1/L2 Desktop and Service Desk, AV/VC" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=720&lines=11%2B+Years+in+Enterprise+IT;Endpoint+Engineering+%26+Modern+Workplace;Python+%26+PowerShell+Automation;VIP+Executive+Support" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=760&lines=11%2B+Years+in+End+User+Support;L1%2FL2+Desktop+%26+Service+Desk;VIP+%26+Executive+Support;AV%2FVC+%26+Conference+Rooms;Automation+with+Python+%26+PowerShell" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/vikas-singh-816657ab">
+  <a href="https://www.linkedin.com/in/vikassingh-eucengineer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/vikas3333-singh">
@@ -24,13 +24,12 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=vikas3333-singh&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/vikas3333-singh?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2EA44F?style=for-the-badge" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA44F?style=for-the-badge" alt="Open to opportunities" />
 </p>
 
-📍 Gurugram, Haryana, India
+📍 Delhi, India
 
-*Transforming enterprise IT operations through intelligent automation,
-modern endpoint management, and exceptional user experiences.*
+*L1/L2 desktop and service desk support, VIP white-glove support, AV/VC, and a strong bias toward automation and self-service.*
 
 </div>
 
@@ -47,6 +46,8 @@ modern endpoint management, and exceptional user experiences.*
 - [Featured Projects](#projects)
 - [Professional Experience](#experience)
 - [Certifications](#certifications)
+- [Education](#education)
+- [Languages](#languages)
 - [Current Learning Focus](#learning)
 - [Core Strengths](#strengths)
 - [Let's Connect](#connect)
@@ -57,37 +58,40 @@ modern endpoint management, and exceptional user experiences.*
 
 ## 👨‍💻 About Me
 
-I'm an IT professional with **11+ years of experience** in enterprise IT operations, workplace technology, endpoint management, infrastructure support, and process automation.
+End User Support Engineer with **11+ years of experience** in L1/L2 desktop, service desk, and field support across Windows, macOS, and enterprise environments.
 
-Most recently, I worked as a **System Analyst – Workplace Services at Boston Consulting Group (BCG), through Konverge Technologies** from **August 2022 to 11 January 2026**, where I managed enterprise endpoint environments, delivered VIP executive support, and drove operational efficiency through automation.
+Hands-on with **Active Directory, Microsoft 365 (Outlook, Teams, Exchange Online), Windows Autopilot, and ServiceNow**, with working knowledge of Intune and SCCM imaging, plus L1 network troubleshooting (TCP/IP, LAN/WAN, Wi-Fi) and conference-room AV/VC.
 
-I specialize in bridging the gap between enterprise infrastructure and end-user productivity. My approach combines technical expertise, operational excellence, and automation to solve real-world IT challenges.
+Spent **3+ years on the Boston Consulting Group (BCG) account** as the primary IT contact for **15+ senior Partners and Managing Directors**, with commendations from 3 of them. Held **95%+ SLA performance** while also supporting conference-room AV/VC.
+
+Strong focus on automation and self-service: built a Windows troubleshooting tool that the BCG Windows team adopted, and a Lenovo ticket automation tool that cuts repetitive portal work.
 
 ### Quick Facts
 
 | | |
 |---|---|
-| **Role** | Workplace Technology Engineer \| IT Operations \| Automation Specialist |
-| **Most Recent Role** | System Analyst – Workplace Services |
-| **Most Recent Organization** | Boston Consulting Group (BCG), via Konverge Technologies |
-| **Tenure** | August 2022 – 11 January 2026 |
-| **Experience** | 11+ years in enterprise IT |
-| **Focus Areas** | Endpoint engineering, automation, VIP support, identity & security |
-| **Location** | Gurugram, Haryana, India |
+| **Role** | End User Support Engineer — L1/L2 Desktop & Service Desk, AV/VC |
+| **Most Recent Role** | Technical Support Specialist, Femmella Fashion (Jan 2026 – Aug 2026) |
+| **Prior Role** | System Analyst, Konverge Technologies (Client: BCG), Aug 2022 – Jan 2026 |
+| **Experience** | 11+ years in end-user and service desk support |
+| **Location** | Delhi, India |
+| **Focus Areas** | VIP support, desktop & service desk L1–L2, AV/VC, endpoint management, automation |
+| **Languages** | English (Professional), Hindi (Native) |
 
 ### What I Bring to the Table
 
-- 🏢 **Enterprise IT Operations:** Managing 500+ Windows and macOS endpoints.
-- ⚙️ **Automation Engineering:** Developing Python, Selenium, PowerShell, and scripting solutions.
-- ☁️ **Modern Endpoint Management:** Microsoft Intune, MECM/SCCM, Jamf Pro, and Windows Autopilot.
-- 🔐 **Identity & Security:** Microsoft Entra ID, MFA, Conditional Access, and Zero Trust principles.
-- 🤝 **VIP & Executive Support:** White-glove technical support for senior leadership and critical business events.
-- 📊 **Operational Excellence:** ITIL processes, SLA management, ServiceNow, and continuous improvement.
-- 👨‍🏫 **Technical Leadership:** Mentoring support engineers and improving team performance.
+- 🖥️ **End User & VIP Support:** Deskside and service desk L1–L2, white-glove support for senior leadership, onboarding/offboarding.
+- 🎥 **AV/VC:** Microsoft Teams Rooms, Zoom Rooms, Poly Studio/Poly Lens, conference-room setup, and live event support.
+- ⚙️ **Endpoint Management:** Windows Autopilot, patch management, Windows 10/11, macOS, corporate imaging, working knowledge of Intune and SCCM.
+- 🔐 **Identity & Microsoft 365:** Active Directory, Entra ID, Exchange Online, Teams, SharePoint, OneDrive, MFA, SSO.
+- 📊 **ITSM & Asset Management:** ServiceNow (Incident, Request, Asset), ManageEngine, ITIL 4, asset lifecycle, Excel reporting, procurement/AMC.
+- 🌐 **Networking & Remote Support:** TCP/IP, DNS, DHCP, LAN/WAN, Wi-Fi, VPN, Windows Server (L1), RDP, TeamViewer, AnyDesk.
+- 🤖 **Automation:** PowerShell, Python, Selenium, Windows batch scripting, Excel.
+- 📝 **Documentation & Enablement:** SOPs and Knowledge Base articles that standardize troubleshooting across teams.
 
 **My philosophy:**
 
-> Secure the environment. Simplify the experience. Automate the repetitive.
+> Fix it properly. Document it clearly. Automate the repetitive.
 
 ---
 
@@ -95,20 +99,18 @@ I specialize in bridging the gap between enterprise infrastructure and end-user 
 
 ## 🚀 Professional Impact
 
-I believe technology should deliver measurable business outcomes.
-
-Here are some examples of the improvements I've delivered:
+These are the outcomes I can stand behind, straight from the work itself:
 
 | Achievement | Business Impact |
 |---|---|
-| Lenovo Warranty Automation | Reduced processing from 3 hours to 1 minute 42 seconds |
-| Advanced IT Troubleshooting Utility | Reduced maintenance time from 40 minutes to 4.5 minutes |
-| L1 Ticket Automation | Deflected 30% of routine L1 tickets |
-| Patch Management | Achieved 97%+ compliance across 500+ endpoints |
-| Asset Management Dashboard | Reduced weekly audit time from 4 hours to under 20 minutes |
-| Windows Autopilot | Reduced engineer touch-time to under 20 minutes |
-| VIP Executive Support | Delivered 100% uptime across 30+ critical leadership events |
-| IT Support Team Mentoring | Improved First Contact Resolution by 22% |
+| VIP support at BCG | Primary IT contact for 15+ senior Partners and Managing Directors; commendations from 3 |
+| SLA performance at BCG | 95%+ of ServiceNow incidents and service requests resolved within SLA |
+| Self-service Windows repair tool | Approved by management after a live demo and added to the BCG custom Windows image |
+| Lenovo E-Ticket Automation | Bulk ticket creation used for 30+ Lenovo support tickets per month |
+| Conference-room AV/VC | Maintained 10+ rooms and supported 20+ Town Halls, Board Meetings, and Offsites |
+| Patch management | Tracked and remediated missing or failed Windows updates across managed devices |
+| IT asset lifecycle | Managed procurement, assignment, return, and retirement for 300+ IT assets in ServiceNow |
+| Team enablement | Wrote SOPs and Knowledge Base articles to standardize troubleshooting |
 
 ---
 
@@ -119,51 +121,65 @@ Here are some examples of the improvements I've delivered:
 ### Programming & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Batch_Scripting-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Batch Scripting" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Windows_Batch-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Batch" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 ### Endpoint & Device Management
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoftintune&logoColor=white" alt="Microsoft Intune" />
-  <img src="https://img.shields.io/badge/MECM%2FSCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MECM/SCCM" />
-  <img src="https://img.shields.io/badge/Jamf_Pro-000000?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Pro" />
   <img src="https://img.shields.io/badge/Windows_Autopilot-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Autopilot" />
+  <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoftintune&logoColor=white" alt="Microsoft Intune" />
+  <img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM" />
+  <img src="https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </p>
 
-### Cloud, Identity & Security
+### Identity & Microsoft 365
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Entra ID" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Entra ID" />
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365" />
-  <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AD" />
-  <img src="https://img.shields.io/badge/MFA-Security-2EA44F?style=for-the-badge" alt="MFA Security" />
-  <img src="https://img.shields.io/badge/Zero_Trust-Security-008080?style=for-the-badge" alt="Zero Trust Security" />
+  <img src="https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white" alt="Exchange Online" />
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="OneDrive" />
 </p>
 
-### Automation Libraries & Development Tools
+### AV/VC & Conference Rooms
 
 <p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="openpyxl" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Microsoft_Teams_Rooms-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams Rooms" />
+  <img src="https://img.shields.io/badge/Zoom_Rooms-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom Rooms" />
+  <img src="https://img.shields.io/badge/Poly_Studio-000000?style=for-the-badge&logo=poly&logoColor=white" alt="Poly Studio" />
+  <img src="https://img.shields.io/badge/Poly_Lens-000000?style=for-the-badge&logo=poly&logoColor=white" alt="Poly Lens" />
 </p>
 
-### ITSM, Operating Systems & Infrastructure
+### ITSM & Asset Management
 
 <p>
   <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/ManageEngine-005A9C?style=for-the-badge" alt="ManageEngine" />
   <img src="https://img.shields.io/badge/ITIL_4-005A9C?style=for-the-badge" alt="ITIL 4" />
-  <img src="https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/UMRA-6A1B9A?style=for-the-badge" alt="UMRA" />
+  <img src="https://img.shields.io/badge/IDM-6A1B9A?style=for-the-badge" alt="IDM" />
+</p>
+
+### Networking, Remote Support & Security
+
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-005A9C?style=for-the-badge" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/LAN%2FWAN-005A9C?style=for-the-badge" alt="LAN/WAN" />
+  <img src="https://img.shields.io/badge/Wi--Fi-005A9C?style=for-the-badge" alt="Wi-Fi" />
+  <img src="https://img.shields.io/badge/VPN-005A9C?style=for-the-badge" alt="VPN" />
+  <img src="https://img.shields.io/badge/Windows_Server_(L1)-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server L1" />
+  <img src="https://img.shields.io/badge/CrowdStrike_EDR-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="CrowdStrike EDR" />
+  <img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white" alt="TeamViewer" />
+  <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk" />
 </p>
 
 ---
@@ -190,93 +206,42 @@ Here are some examples of the improvements I've delivered:
 
 ## 💡 Featured Projects
 
-### 1. 🚀 TicketForge – Lenovo E-Ticket Automation
+### 1. 🔧 Advanced IT Troubleshooting Utility
+
+**Windows Batch | Self-Service Automation | Endpoint Support**
+
+🔗 [View Project](https://github.com/vikas3333-singh/Advanced-IT-Troubleshooting-Utility)
+
+Users kept raising tickets for the same basic problems and losing time waiting on IT, especially when travelling.
+
+**What I built:**
+- A small Windows batch tool (under 100 KB) with 8 one-click fixes.
+- Covers network reset, DNS flush, Windows Update repair, and similar recurring issues.
+- Designed so users can resolve these themselves without waiting on the service desk.
+
+**Outcome:**
+- Got approval from my manager and senior management after a live demo.
+- The Windows team added it to the BCG custom Windows image and the internal IT support tool.
+
+---
+
+### 2. 🚀 Lenovo E-Ticket Automation (Ticket Forge)
 
 **Python | Selenium | Excel Automation**
 
-🔗 [View Project](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
+🔗 [View Project](https://github.com/vikas3333-singh/Lenovo-E-Ticket-Automation)
 
-An automated batch-processing solution for Lenovo hardware warranty claims.
+Manual Lenovo support ticket creation is repetitive and easy to get wrong, especially when several devices need claims at once.
 
-**Problem:**  
-Manual warranty claim submissions required filling multiple fields for every defective device, consuming approximately 2.5–3 hours each morning.
+**What I built:**
+- A Python + Selenium tool that creates Lenovo hardware support tickets in bulk from an Excel sheet.
+- Fills in serial number, issue, and address for each ticket, with an option for a different support location.
+- Writes the case ID back to the tracker.
+- Checks ticket status on the portal and updates Excel, replacing the manual next-day status checks.
 
-**Solution:**
-- Developed Python and Selenium-based browser automation.
-- Automated hardware inventory extraction from Excel.
-- Automated Lenovo warranty portal interactions.
-- Implemented batch claim processing.
-- Automatically recorded claim confirmation numbers.
-
-**Impact:**
-- Reduced processing time from approximately 3 hours to 1 minute 42 seconds.
-- Accelerated hardware replacement and dispatch workflows.
-- Eliminated repetitive manual form submissions.
-
----
-
-### 2. 🔧 Advanced IT Troubleshooting Utility (AITU)
-
-**Python | Batch | Bash | Windows | macOS**
-
-🔗 [View Project](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
-
-A cross-platform diagnostic and maintenance toolkit designed to simplify routine IT troubleshooting.
-
-**Features:**
-- Automated SFC and DISM operations.
-- Network reset and troubleshooting.
-- Windows cache cleanup.
-- macOS maintenance scripts.
-- Silent execution options for Intune deployment.
-- Non-destructive dry-run capabilities.
-
-**Impact:**
-- Reduced routine maintenance from approximately 40 minutes to 4.5 minutes.
-- Helped deflect 74% of L1 escalations.
-- Standardized recurring troubleshooting workflows.
-
----
-
-### 3. 📊 IT Asset Tracker & Hardware Dashboard
-
-**HTML5 | JavaScript | Chart.js**
-
-🔗 [View Project](https://vikas3333-singh.github.io/it-asset-tracker/)
-
-An interactive browser-based dashboard for visualizing enterprise hardware inventory and warranty lifecycles.
-
-**Features:**
-- Hardware inventory visualization.
-- Device status tracking.
-- Warranty lifecycle monitoring.
-- Interactive charts and reporting.
-- Browser-based interface.
-
-**Impact:**
-- Supported tracking of 500+ distributed hardware assets.
-- Reduced weekly audit overhead from 4 hours to under 20 minutes.
-- Improved visibility into hardware inventory.
-
----
-
-### 4. ☁️ Zero-Touch Deployment – Windows Autopilot
-
-**Microsoft Intune | Windows Autopilot | Entra ID**
-
-An enterprise deployment approach designed to streamline new-hire device provisioning.
-
-**Key Contributions:**
-- Implemented Windows Autopilot provisioning workflows.
-- Integrated Intune configuration and deployment policies.
-- Enabled drop-shipping directly to end users.
-- Streamlined automated onboarding.
-- Reduced manual device imaging and configuration effort.
-
-**Impact:**
-- Reduced engineer touch-time to under 20 minutes.
-- Improved device provisioning efficiency.
-- Simplified Day 1 employee onboarding.
+**Outcome:**
+- Used for 30+ Lenovo support tickets per month.
+- Removed a chunk of repetitive portal work from the daily routine.
 
 ---
 
@@ -285,49 +250,69 @@ An enterprise deployment approach designed to streamline new-hire device provisi
 ## 💼 Professional Experience
 
 <details open>
-<summary><strong>🏢 Boston Consulting Group (BCG) — System Analyst, Workplace Services</strong></summary>
+<summary><strong>🏢 Femmella Fashion — Technical Support Specialist</strong></summary>
 
 <br/>
 
-*Via Konverge Technologies | August 2022 – 11 January 2026*
+*Gurgaon, India | January 2026 – August 2026*
 
-- Managed 500+ Windows and macOS endpoints using Microsoft Intune, MECM, Jamf Pro, and Windows Autopilot.
-- Maintained 97%+ patch compliance across managed endpoints.
-- Delivered white-glove VIP support for Partners, Managing Directors, and Practice Leaders.
-- Supported 30+ critical leadership events with 100% uptime.
-- Managed Microsoft Entra ID, MFA, and Conditional Access.
-- Maintained 95.4% SLA adherence through ServiceNow.
-- Automated routine support activities, deflecting 30% of L1 tickets.
-- Developed Python/Selenium-based TicketForge automation for vendor warranty claims.
+- Primary L2 escalation point for 250+ users as a senior member of a two-person IT team, resolving about 15 tickets a day across hardware, software, and network issues.
+- Managed user accounts, security and distribution groups, mailboxes, permissions, and licensing across Active Directory and Microsoft 365, plus Google Workspace and Slack.
+- Ran the Joiner/Mover/Leaver process through UMRA, ServiceNow, and IDM.
+- Resolved day-to-day issues on Windows desktops and laptops, Office, Outlook, Teams, network printers, and LAN/Wi-Fi connectivity, including basic TCP/IP troubleshooting.
+- Owned the laptop, desktop, and peripheral fleet: kept the inventory file updated, produced monthly asset reports in Excel, and handled procurement, AMC renewals, and vendor servicing.
+- Set up and supported AV-enabled conference rooms so hybrid meetings ran reliably.
+- Wrote SOPs and Knowledge Base articles to standardize troubleshooting across the IT team.
 
 </details>
 
 <details>
-<summary><strong>🏢 Puthur Infotech Pvt. Ltd. — Technical Support Engineer</strong></summary>
+<summary><strong>🏢 Konverge Technologies (Client: Boston Consulting Group) — System Analyst</strong></summary>
 
 <br/>
 
-*Patna, India | March 2018 – August 2022*
+*Gurgaon, India | August 2022 – January 2026*
 
-- Led Windows 10 enterprise migration for 180+ mission-critical devices using SCCM and PXE boot.
-- Mentored 6 support engineers on ITIL processes and operational best practices.
-- Improved First Contact Resolution by 22%.
-- Managed hardware inventory for 200+ assets.
-- Maintained 96% asset audit accuracy.
+- Dedicated IT contact for 15+ senior Partners and Managing Directors, providing L1/L2 deskside and VIP support; received commendations from 3 of them.
+- Supported 300+ users and 300+ IT assets across Windows, Microsoft 365, Entra ID, and ServiceNow.
+- Provisioned laptops with Windows Autopilot for new joiners and device refreshes.
+- Kept Windows devices patch-compliant by tracking missing or failed updates and getting them remediated.
+- Managed the full IT asset lifecycle in ServiceNow, from procurement and assignment to return and retirement.
+- Resolved 95%+ of ServiceNow incidents and service requests within SLA.
+- Handled day-to-day Entra ID and Microsoft 365 user administration: Exchange Online, Teams, SharePoint, OneDrive, licensing, and onboarding/offboarding.
+- Maintained Poly Studio, Zoom Rooms, and Microsoft Teams Rooms in 10+ conference rooms, and ran AV/IT support for 20+ Town Halls, Board Meetings, and Offsites.
+- Spotted recurring basic issues in tickets and built a self-service Windows repair tool; management approved it and the Windows team added it to the BCG custom Windows image.
+- Provided L1 LAN/WAN and TCP/IP troubleshooting for the local office network (switches, routers, Wi-Fi), and looked after server room health, UPS, and structured cabling.
 
 </details>
 
 <details>
-<summary><strong>🏢 Rural Electrification Corporation (REC) — Desktop Support Engineer</strong></summary>
+<summary><strong>🏢 Puthur Infotech Pvt. Ltd. (Client: PDIL) — Technical Support Engineer</strong></summary>
 
 <br/>
 
-*Via Atlanta Systems | New Delhi, India | May 2015 – March 2018*
+*Noida, India | March 2018 – August 2022*
 
-- Delivered Tier 1 and Tier 2 technical support to 200+ users.
-- Supported REC Headquarters and 15+ regional branch offices.
-- Troubleshot VPN, LAN, and Microsoft Exchange issues.
-- Maintained IT support standards aligned with government compliance requirements.
+- Delivered end-to-end hardware, software, and network support through ServiceNow and direct user assistance.
+- Installed, configured, and upgraded Windows desktops and laptops, and supported company-wide OS upgrade projects.
+- Tracked inventory for 150+ devices, along with replacements and backup procedures.
+- Handled patch management and antivirus monitoring, and supported disk encryption and firewall configuration for endpoint security.
+- Improved repair processes and maintained SOPs for consistent troubleshooting and end-user support.
+- Provided remote and onsite troubleshooting, backup, and recovery assistance.
+
+</details>
+
+<details>
+<summary><strong>🏢 Atlanta Systems Pvt. Ltd. (Client: Rural Electrification Corporation) — Desktop Support Engineer (L1)</strong></summary>
+
+<br/>
+
+*New Delhi, India | January 2015 – March 2018*
+
+- Provided hardware, software, and network support across office locations and remote branches.
+- Installed, configured, and maintained Windows and Ubuntu desktops and laptops for new joiners and replacement cases.
+- Supported printers, scanners, LAN connectivity, VPN, and email clients.
+- Deployed antivirus, handled system backups, and managed asset replacements.
 
 </details>
 
@@ -335,15 +320,35 @@ An enterprise deployment approach designed to streamline new-hire device provisi
 
 <a name="certifications"></a>
 
-## 🏆 Certifications
+## 🏆 Certifications & Training
 
-| Certification | Issuing Organization |
+| Certification / Course | Issuing Organization | Year |
+|---|---|---|
+| ITIL 4 Foundation | Simplilearn | 2025 |
+| Microsoft Copilot Essentials | LinkedIn Learning | 2026 |
+| Microsoft 365 Administration (course) | Udemy | 2026 |
+| ServiceNow Platform User (course) | LinkedIn Learning | 2024 |
+| Microsoft Azure Fundamentals (AZ-900) | — | In progress |
+
+---
+
+<a name="education"></a>
+
+## 🎓 Education
+
+| Qualification | Institution |
 |---|---|
-| ITIL 4 Foundation in IT Service Management | PeopleCert |
-| macOS Support & Administration Essentials | Apple / LinkedIn Learning |
-| Microsoft Copilot & AI Productivity Essentials | Microsoft Press |
-| Python for IT Operations & Automation | Google / Coursera |
-| Generative AI: Enterprise Prompt Engineering | LinkedIn Learning |
+| B.A. | Jai Prakash University, Patna |
+| Diploma in Hardware & Networking | Jetking, New Delhi |
+
+---
+
+<a name="languages"></a>
+
+## 🗣️ Languages
+
+- **English** — Professional
+- **Hindi** — Native
 
 ---
 
@@ -351,14 +356,12 @@ An enterprise deployment approach designed to streamline new-hire device provisi
 
 ## 📚 Current Learning Focus
 
-Continuously improving my technical capabilities in:
-
-- 🤖 Generative AI and enterprise AI productivity.
-- 🐍 Advanced Python automation for IT operations.
-- ☁️ Modern endpoint management and Intune architecture.
-- 🔐 Zero Trust security and identity management.
-- ⚙️ Intelligent IT workflow automation.
-- 📊 Operational analytics and infrastructure optimization.
+- ☁️ Microsoft Azure Fundamentals (AZ-900) — in progress.
+- 🧑‍💼 Microsoft 365 administration in depth.
+- ⚙️ Endpoint management with Intune and Autopilot.
+- 🐍 Python and PowerShell automation for service desk work.
+- 🎥 AV/VC — Teams Rooms, Zoom Rooms, and Poly.
+- 📊 ServiceNow platform skills.
 
 ---
 
@@ -366,16 +369,16 @@ Continuously improving my technical capabilities in:
 
 ## 🌟 Core Strengths
 
-- Enterprise Workplace Technology
-- Endpoint Engineering & Management
-- IT Infrastructure Operations
-- Python & PowerShell Automation
-- VIP & Executive Support
-- ITIL & Service Delivery
-- Incident & Problem Management
-- Identity & Access Management
-- Technical Mentoring & Leadership
-- Process Optimization
+- End User & VIP Support
+- Deskside and Service Desk L1–L2
+- AV/VC and Conference Room Support
+- Endpoint Management (Autopilot, Intune, SCCM)
+- Identity & Microsoft 365 Administration
+- ITSM & Asset Management
+- Networking & Remote Support
+- Automation (Python, PowerShell, Selenium)
+- Documentation and SOPs
+- Vendor Coordination
 
 ---
 
@@ -383,10 +386,10 @@ Continuously improving my technical capabilities in:
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with technology professionals, IT leaders, automation enthusiasts, and organizations working on modern workplace technology.
+I'm open to End User Support, Desktop Support, Service Desk, and VIP/Executive Support roles. Always happy to connect with IT teams, service desk leads, and automation folks.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikas-singh-816657ab">
+  <a href="https://www.linkedin.com/in/vikassingh-eucengineer">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Let's Connect" />
   </a>
   <a href="https://github.com/vikas3333-singh">
@@ -406,7 +409,7 @@ I'm always interested in connecting with technology professionals, IT leaders, a
 
 <div align="center">
 
-### 💬 "Automate what you can. Optimize what you can't. Deliver excellence in everything."
+### 💬 "Fix it properly. Document it clearly. Automate the repetitive."
 
 ⭐ Thanks for visiting my GitHub profile!
 
