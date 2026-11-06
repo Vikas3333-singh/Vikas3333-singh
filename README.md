@@ -192,7 +192,7 @@ Here are some examples of the improvements I've delivered:
 
 **Python | Selenium | Excel Automation**
 
-🔗 [View Project](https://github.com/vikas3333-singh/Lenovo-E-Ticket-Automation)
+🔗 [View Project](https://vikas3333-singh.github.io/Lenovo-E-Ticket-Automation/)
 
 An automated batch-processing solution for Lenovo hardware warranty claims.
 
@@ -217,7 +217,7 @@ Manual warranty claim submissions required filling multiple fields for every def
 
 **Python | Batch | Bash | Windows | macOS**
 
-🔗 [View Project](https://github.com/vikas3333-singh/Advanced-IT-Troubleshooting-Utility)
+🔗 [View Project](https://vikas3333-singh.github.io/Advanced-IT-Troubleshooting-Utility/)
 
 A cross-platform diagnostic and maintenance toolkit designed to simplify routine IT troubleshooting.
 
@@ -240,7 +240,7 @@ A cross-platform diagnostic and maintenance toolkit designed to simplify routine
 
 **HTML5 | JavaScript | Chart.js**
 
-🔗 [View Project](https://github.com/vikas3333-singh/it-asset-tracker)
+🔗 [View Project](https://vikas3333-singh.github.io/it-asset-tracker/)
 
 An interactive browser-based dashboard for visualizing enterprise hardware inventory and warranty lifecycles.
 
