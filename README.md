@@ -94,8 +94,6 @@ Strong focus on automation and self-service: built a Windows troubleshooting too
 
 ## 🚀 Professional Impact
 
-These are the outcomes I can stand behind, straight from the work itself:
-
 | Achievement | Business Impact |
 |---|---|
 | VIP support at BCG | Primary IT contact for 15+ senior Partners and Managing Directors; commendations from 3 |
@@ -207,19 +205,20 @@ Enterprise provisioning workflow for new-hire device deployment. *Internal enter
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/vikas3333-singh/vikas3333-singh/assets/profile/stats.svg" alt="GitHub stats" />
-
-<img height="170" src="https://raw.githubusercontent.com/vikas3333-singh/vikas3333-singh/assets/profile/top-langs.svg" alt="Top languages" />
+<img height="170" src="https://raw.githubusercontent.com/vikas3333-singh/vikas3333-singh/main/profile/stats.svg" alt="GitHub stats" />
+<img height="170" src="https://raw.githubusercontent.com/vikas3333-singh/vikas3333-singh/main/profile/top-langs.svg" alt="Top languages" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/vikas3333-singh/vikas3333-singh/assets/profile/streak.svg" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/vikas3333-singh/vikas3333-singh/main/profile/streak.svg" alt="GitHub streak" />
 
 </div>
 
 ---
 
 <a name="experience"></a>
+
+## 💼 Professional Experience
 
 ## 💼 Professional Experience
 
