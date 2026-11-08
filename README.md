@@ -205,12 +205,13 @@ Enterprise provisioning workflow for new-hire device deployment. *Internal enter
 
 <div align="center">
 
-<img height="170" src="https://cdn.jsdelivr.net/gh/vikas3333-singh/vikas3333-singh@main/profile/stats.svg" alt="GitHub stats" />
-<img height="170" src="https://cdn.jsdelivr.net/gh/vikas3333-singh/vikas3333-singh@main/profile/top-langs.svg" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=vikas3333-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vikas3333-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/vikas3333-singh/vikas3333-singh@main/profile/streak.svg" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=vikas3333-singh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
