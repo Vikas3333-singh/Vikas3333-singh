@@ -205,20 +205,18 @@ Enterprise provisioning workflow for new-hire device deployment. *Internal enter
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/vikas3333-singh/vikas3333-singh/main/profile/stats.svg" alt="GitHub stats" />
-<img height="170" src="https://raw.githubusercontent.com/vikas3333-singh/vikas3333-singh/main/profile/top-langs.svg" alt="Top languages" />
+<img height="170" src="https://cdn.jsdelivr.net/gh/vikas3333-singh/vikas3333-singh@main/profile/stats.svg" alt="GitHub stats" />
+<img height="170" src="https://cdn.jsdelivr.net/gh/vikas3333-singh/vikas3333-singh@main/profile/top-langs.svg" alt="Top languages" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/vikas3333-singh/vikas3333-singh/main/profile/streak.svg" alt="GitHub streak" />
+<img src="https://cdn.jsdelivr.net/gh/vikas3333-singh/vikas3333-singh@main/profile/streak.svg" alt="GitHub streak" />
 
 </div>
 
 ---
 
 <a name="experience"></a>
-
-## 💼 Professional Experience
 
 ## 💼 Professional Experience
 
